@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+html, body {
+  padding: 0 1em 1em;
+  margin: 0;
+}
+
+table {
+  margin-top: 35px;
+}
+
+th {
+  padding-bottom: 10px;
+  border-bottom: 2px dashed #000;
+}
+
+tr:first-child {
+  height: 1.75rem;
+}
+
+td {
+  font-size: 0.8rem;
+  height: 1.56rem;
+  vertical-align: middle;
+  text-align: left;
+}
+
+td:first-child {
+  min-width: 50px;
+  font-weight: bold;
+}
