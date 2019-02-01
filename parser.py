@@ -4,15 +4,13 @@ import re
 from collections import defaultdict
 from concurrent.futures import as_completed
 from concurrent.futures.thread import ThreadPoolExecutor
-from typing import List
+from typing import List, Tuple, Pattern
 
 from bs4 import BeautifulSoup
-from bs4.element import Tag
+from bs4.element import Tag, NavigableString
 
-from advisory import Advisory
 from logger import create_logger
 
-advisories: List[Advisory] = []
 data_dir = 'data'
 logger = create_logger(__name__)
 
@@ -24,7 +22,7 @@ def clean_vulnerability(v):
     return v
 
 
-def parse_anchor_title(t: str):
+def parse_anchor_title(t: str) -> Tuple[str, str]:
     if t.startswith('http://'):
         t = re.sub(r'(http://.*html\s?,\s?)', '', t)
 
@@ -37,9 +35,9 @@ def parse_anchor_title(t: str):
     return cwe, vulnerability
 
 
-def parse_cvss(tag: Tag, ends: List[Tag]):
+def parse_cvss(tag: Tag, ends: List[Tag]) -> float or None:
 
-    def get_score(score_found):
+    def get_score(score_found: List[str]) -> float or None:
         if score_found:
             scores = score_found[0]
             if scores:
@@ -48,7 +46,8 @@ def parse_cvss(tag: Tag, ends: List[Tag]):
                 return (float(scores[0]) + float(scores[1])) / 2.0
         return None
 
-    def find_recursively(cur, pattern):
+    def find_recursively(cur: Tag or NavigableString,
+                         pattern: Pattern) -> int or None:
         while cur is not None and cur not in ends:
             text = cur
             if isinstance(cur, Tag):
@@ -74,7 +73,7 @@ def parse_cvss(tag: Tag, ends: List[Tag]):
     return None
 
 
-def parse_advisory_vulnerabilities(soup):
+def parse_advisory_vulnerabilities(soup: BeautifulSoup) -> List:
     vulnerabilities = []
     overview_p = re.compile('VULNERABILITY OVERVIEW', flags=re.I)
     end_texts = (
@@ -139,6 +138,7 @@ def parse_advisory_vulnerabilities(soup):
                             cwe_number = re.findall(r'CWE[\s-]+?(\d+)', text)[0]
                             cwe = 'CWE-' + cwe_number
                             vulnerability = re.sub(r'CWE[\s-]+?\d+', '', text)
+
             if cwe and vulnerability:
                 cvss = parse_cvss(cur, ends)
                 vulnerabilities.append(
@@ -152,7 +152,7 @@ def parse_advisory_vulnerabilities(soup):
     return vulnerabilities
 
 
-def parse_advisory(vendor, html_path):
+def parse_advisory(vendor: str, html_path: str) -> Tuple[str, List]:
     with open(html_path, 'r') as f:
         html = f.read()
     soup = BeautifulSoup(html, 'lxml')
@@ -167,6 +167,9 @@ def parse():
 
     for vendor in os.listdir(data_dir):
         vendor_dir = os.path.join(data_dir, vendor)
+        if not os.path.isdir(vendor_dir):
+            continue
+
         for fn in os.listdir(vendor_dir):
             advisory_html_paths.append((vendor, os.path.join(vendor_dir, fn)))
 
@@ -177,8 +180,7 @@ def parse():
         vendor, vulnerabilities = fs.result()
         data[vendor].extend(vulnerabilities)
 
-    print(data)
-    with open('vulnerabilities.json', 'w') as f:
+    with open('./app/src/vulnerabilities.json', 'w') as f:
         json.dump(data, f)
 
 
