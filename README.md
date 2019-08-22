@@ -3,4 +3,5 @@ ICS-CERT Advisory parser and report
 
 ### Result
 
-![pie.png](./pie.png)
+![bar.png](./bar.png)
+![pie.png](./pie.svg)
