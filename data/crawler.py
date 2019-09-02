@@ -1,28 +1,15 @@
 import collections
 import json
 import os
-import re
 from concurrent import futures
 
-import requests
 import bs4
 
+from data.utils import create_new_session, get_last_page
+
 host = 'https://www.us-cert.gov'
-session = requests.Session()
-user_agent = (
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
-    "snap Chromium/78.0.3887.7 Chrome/78.0.3887.7 Safari/537.36"
-)
-session.headers.update({'User-Agent': user_agent})
+session = create_new_session()
 data_dir = os.path.dirname(os.path.abspath(__file__))
-
-
-def get_last_page(html):
-    soup = bs4.BeautifulSoup(html, 'lxml')
-    last_pager = soup.select_one('.pager__item.pager__item--last > a')
-    if last_pager is None:
-        return None
-    return int(last_pager.attrs['href'].split('=')[1]) + 1
 
 
 def get_advisories_by_vendor():
@@ -73,12 +60,15 @@ def crawl_advisories():
     for vendor in advisories_by_vendor:
         for href in advisories_by_vendor[vendor]:
             url = f'{host}{href}'
-            doc_id = href.split('/')[-1]
+            doc_id = href.split('/')[-1].upper()
             jobs.append(pool.submit(save_page, vendor, url, doc_id))
 
     for job in futures.as_completed(jobs):
         vendor, doc_id = job.result()
-        advisories[doc_id] = os.path.join('data', 'advisories', vendor, f'{doc_id}.html')
+        advisories[doc_id] = dict(
+            vendor=vendor,
+            path=os.path.join('data', 'advisories', vendor, f'{doc_id}.html'),
+        )
         print(f'[+] {vendor}/{doc_id}.html')
 
     with open(os.path.join(data_dir, 'advisories.json'), 'w') as f:
