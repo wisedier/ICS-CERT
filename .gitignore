@@ -24,4 +24,6 @@ yarn-error.log*
 /node_modules/
 /app/node_modules/
 /data/*/
-.idea
+/.idea
+/data/advisories
+/data/advisories.json
