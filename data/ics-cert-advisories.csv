@@ -1,0 +1,1078 @@
+DOC ID,CVSS version,CVSS score,CWE IDs,Sectors,Deployed,Location
+ICSMA-19-241-01,3,7.8,276,Healthcare and Public Health,Worldwide,United States
+ICSMA-19-241-02,3,3,477,Healthcare and Public Health,Worldwide,Netherlands
+ICSA-19-239-01,3,9.8,120,Commercial Facilities|Government Facilities,Worldwide,Canada
+ICSA-19-239-02,3,8.8,288,Critical Manufacturing,Worldwide,Italy
+ICSA-19-232-01,3,5.3,522,Critical Manufacturing,Worldwide,United States
+ICSA-19-227-01,3,6.8,323|321,Critical Manufacturing,Worldwide,Ireland
+ICSA-19-227-02,3,7.8,121,Commercial Facilities|Critical Manufacturing,Europe|Asia,Japan
+ICSA-19-227-03,3,6.6,710|710,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-227-04,3,7.5,400,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-225-01,3,7.8,125|416,Critical Manufacturing,Worldwide,Taiwan
+ICSA-19-225-02,3,8.5,532|693,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Government Facilities|Healthcare and Public Health|Information Technology|Materials and Mining|Water and Wastewater Systems,Worldwide,United States
+ICSA-19-225-03,3,8.6,410,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-213-01,3,7.8,787,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|Europe|United States,Taiwan
+ICSA-19-213-02,3,4.4,125,Commercial Facilities,Worldwide,Japan
+ICSA-19-213-03,3,9,283,Critical Manufacturing,Worldwide,Germany
+ICSA-19-213-04,3,8.8,522,Critical Manufacturing,Worldwide,Germany
+ICSA-19-213-05,3,8.6,416,Critical Manufacturing,Worldwide,United States
+ICSA-19-213-06,3,7.8,125|843,Chemical|Commercial Facilities|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,South America,Brazil
+ICSA-19-211-01,3,9.8,121|122|191|119|119|362|88|476|88|88|88,Critical Manufacturing|Information Technology|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-19-211-02,3,10,78|434|352|334|79|530|287|798|434,Commercial Facilities|Government Facilities|Healthcare and Public Health|Information Technology|Transportation Systems,Worldwide,Slovenia
+ICSA-19-204-01,3,7.1,611|400,Critical Manufacturing,Worldwide,Japan
+ICSA-19-204-02,3,6.1,121,Energy,United States,United States
+ICSA-19-199-01,3,6.7,428,Critical Manufacturing,Worldwide,Ireland
+ICSMA-19-192-01,3,1.9,477,Healthcare and Public Health,Worldwide,Netherlands
+ICSA-19-192-01,3,7.8,122|125,Critical Manufacturing,Worldwide,Taiwan
+ICSA-19-192-02,3,7.2,434,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-192-03,3,8,284,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-192-04,3,5.9,20,Critical Manufacturing|Food and Agriculture|Transportation Systems,Worldwide,Germany
+ICSA-19-192-05,3,9.8,20,Energy,Worldwide,France
+ICSA-19-192-06,3,7,787,Commercial Facilities|Critical Manufacturing|Energy,Worldwide,France
+ICSA-19-192-07,3,9.8,20|20|119|20,Energy,Worldwide,France
+ICSMA-19-190-01,3,5.3,287,Healthcare and Public Health,United States,United States
+ICSA-19-190-01,3,6.1,798,Chemical|Critical Manufacturing|Energy,Worldwide,United States
+ICSA-19-190-02,3,7.5,284,Critical Manufacturing|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-19-190-03,3,7.8,416,Critical Manufacturing,Worldwide,France
+ICSA-19-190-04,3,4.7,79,Energy,Worldwide,Germany
+ICSA-19-190-05,3,7.5,20|20,Energy,Worldwide,Germany
+ICSA-19-183-01,3,7.5,754,Multiple Sectors,Worldwide,France
+ICSA-19-183-02,3,2.7,20,Information Technology,Worldwide,Canada
+ICSMA-19-178-01,3,7.1,284,Healthcare and Public Health,Worldwide,Ireland
+ICSA-19-178-01,3,8.8,798|287|23|20|20|121|121,Chemical|Critical Manufacturing|Dams|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Switzerland
+ICSA-19-178-02,3,8.8,798,Critical Manufacturing,Worldwide,Switzerland
+ICSA-19-178-03,3,8.8,798,Critical Manufacturing,Worldwide,Switzerland
+ICSA-19-178-04,3,9.8,798,Critical Manufacturing,Worldwide,Germany
+ICSA-19-178-05,3,9.8,22|121|122|125|787|822,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|United States|Europe,Taiwan
+ICSA-19-171-01,3,7.5,824|125|416,Critical Manufacturing,Worldwide,Germany
+ICSMA-19-164-01,3,10,284|434,Healthcare and Public Health,Europe|Asia,United States
+ICSA-19-164-01,3,6.7,285,Critical Manufacturing,Worldwide,Ireland
+ICSA-19-164-02,3,9.8,798|321,Commercial Facilities,Worldwide,Germany
+ICSA-19-162-01,3,8.8,285|286|862,Critical Manufacturing|Commercial Facilities,Worldwide,Germany
+ICSA-19-162-02,3,7.1,269|319,Critical Manufacturing,Worldwide,Germany
+ICSA-19-162-03,3,7.5,119|384,Commercial Facilities|Transportation Systems,Worldwide,Germany
+ICSA-19-162-04,3,7.1,257,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-157-01,3,10,200|352|434|601|912|749|798,Commercial Facilities|Government Facilities,Worldwide,United States
+ICSA-19-157-02,3,7.3,122|843,Commercial Facilities|Critical Manufacturing|Food and Agriculture,Worldwide,Japan
+ICSA-19-155-01,3,7.6,320|284|300,Commercial Facilities,Worldwide,Germany
+ICSA-19-155-02,3,8.8,284,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSA-19-155-03,3,7.2,79|78|78,Commercial Facilities|Energy|Financial Services|Government Facilities|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-19-150-01,3,6.5,522,Commercial Facilities|Critical Manufacturing|Energy,Worldwide,United Kingdom
+ICSA-19-148-01,3,6.8,121|122,Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-19-141-01,3,8.8,352|203|79|77|540|321|89|288|326,Commercial Facilities|Government Facilities|Healthcare and Public Health,North America,United States
+ICSA-19-141-02,3,7.5,400,Critical Manufacturing,Worldwide,Japan
+ICSA-19-136-01,3,5.4,330,Multiple Sectors,Worldwide,France
+ICSA-19-136-02,3,3.3,125,Critical Manufacturing,Worldwide,Japan
+ICSA-19-134-01,3,7.3,426,Critical Manufacturing,Worldwide,Japan
+ICSA-19-134-02-0,3,9.8,306,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-134-03,3,7.8,502,Commercial Facilities|Transportation Systems,Worldwide,Germany
+ICSA-19-134-04,3,9.4,306|231|256,Commercial Facilities|Transportation Systems,Worldwide,Germany
+ICSA-19-134-05,3,7.5,400,Chemical|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-134-06,3,7.5,20,Chemical|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-134-07,3,9.8,77|200|200|77|79,Chemical|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-134-08,3,9.1,89|248|749,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-134-09,3,6.5,798|522|79,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-122-01,3,9.8,798|79|89|311|94|121,Commercial Facilities|Energy|Transportation Systems,Worldwide,Israel
+ICSA-19-122-02,3,8.1,427|427|798|284|284,Critical Manufacturing|Energy,Worldwide,United States
+ICSA-19-122-03,3,9.1,78|798|434|79|352|200|311,Commercial Facilities|Communications|Emergency Services|Energy|Government Facilities|Transportation Systems|Water and Wastewater Systems,Worldwide,Canada
+ICSMA-19-120-01,3,4.1,79,Healthcare and Public Health,Brazil|Mexico,Netherlands
+ICSA-19-120-01,3,8.6,400|121,Critical Manufacturing,Worldwide,United States
+ICSMA-19-113-01,3,9.8,400|284,Healthcare and Public Health,Worldwide,Japan
+ICSA-19-113-01,3,7.1,601,Critical Manufacturing,Worldwide,United States
+ICSA-19-106-01,3,7.8,121|122|125,Critical Manufacturing,Worldwide,Taiwan
+ICSA-19-106-02,3,9.8,798,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,Worldwide,United States|Germany|Switzerland|Poland|China|India
+ICSA-19-106-03,3,7.5,400,Chemical|Commercial Facilities|Critical Manufacturing|Dams|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany|Switzerland|France
+ICSA-19-099-01,3,7.5,400,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-099-02,3,10,77,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-099-03,3,7.5,248,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-099-04,3,8.3,131|125|121|280,Food and Agriculture|Chemical|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-099-05,3,9.8,415|125|400,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-19-099-06,3,7.5,125,Commercial Facilities|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-094-01,3,6.6,416,Critical Manufacturing,Worldwide,Japan
+ICSA-19-094-02,3,6.8,400,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-19-094-03,3,8.6,399|399|399|20|399,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-19-094-04,3,8.6,20,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-19-092-01,3,9.8,77|121|284,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|United States|Europe,Taiwan
+ICSA-19-087-01,3,7.5,400,Critical Manufacturing,Worldwide,United States
+ICSA-19-085-01,3,5.4,440,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-085-02,3,9.9,77,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSA-19-085-03-0,3,7.5,306,Commercial Facilities,Worldwide,Australia
+ICSMA-19-080-01,3,9.3,284|319,Healthcare and Public Health,Worldwide,Ireland
+ICSA-19-078-01,3,6.5,427,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-19-078-02,3,9.8,79|22|287|20|94|79,Information Technology,United States,United States
+ICSA-19-073-01,3,7.8,787,Chemical|Commercial Facilities|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,South America,Brazil
+ICSA-19-073-02,3,6.5,427,Communications|Financial Services|Government Facilities|Healthcare and Public Health|Information Technology,Worldwide,Netherlands
+ICSA-19-073-03,3,5.3,22,Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSA-19-064-01,3,10,121,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-19-059-01,3,8.5,79,Energy,Worldwide,Germany
+ICSA-19-057-01,3,9.8,120|352|79|284|307|311|125|256|341|400,Critical Manufacturing|Energy|Transportation Systems,Worldwide,Taiwan
+ICSA-19-050-01,3,8.8,287|693|693|275|693|693|275|275|320|275|691,Information Technology,Worldwide,United States
+ICSA-19-050-02,3,4.4,125,Critical Manufacturing,Worldwide,Taiwan
+ICSA-19-050-03,3,7.8,20,Critical Manufacturing,Worldwide,United States
+ICSA-19-050-04,3,9.8,79|288,Energy,Worldwide,United States
+ICSA-19-045-01,3,7.5,288,Communications|Information Technology,Worldwide,United States
+ICSA-18-310-01,3,8.3,121,Communications|Defense Industrial Base|Emergency Services|Transportation Systems,Worldwide,Unknown
+ICSA-19-043-01,3,4.8,79,Multiple Sectors,Worldwide,United States
+ICSA-19-043-02,3,7.5,20,Energy,Worldwide,Germany
+ICSA-19-043-03,3,10,200|787|122,Commercial Facilities|Communications|Critical Manufacturing|Energy|Financial Services|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-19-043-04,3,7.5,20,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-043-05,3,6.7,310|119|399,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-043-06,3,9.1,319|79|352,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-038-01,3,5.3,248,Energy,Worldwide,Germany
+ICSA-19-038-02,3,7.5,20,Energy,Worldwide,Germany
+ICSA-19-036-01,3,9.8,306,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-19-036-02,3,5.3,20,Critical Manufacturing,Worldwide,United States
+ICSA-19-036-03,3,7.8,122|121|119,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,China
+ICSA-19-036-04,3,7.5,20|20,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-19-036-05,3,10,287|306|20|598|312,Communications,Worldwide,Germany
+ICSA-19-031-02,3,8.8,798|326|259,Commercial Facilities|Government Facilities|Healthcare and Public Health|Water and Wastewater Systems,Worldwide,United States
+ICSA-19-031-01,3,9.8,798|94|89,Transportation Systems,Worldwide,France
+ICSMA-19-029-01,3,6.8,323,Healthcare and Public Health,Worldwide,United States
+ICSMA-19-029-02,3,6.8,284,Healthcare and Public Health,Worldwide,United States
+ICSA-19-029-01,3,8.1,434,Critical Manufacturing|Energy|Food and Agriculture,Worldwide,Japan
+ICSA-19-029-02,3,7.5,400,Critical Manufacturing,Worldwide,Japan
+ICSA-19-029-03,3,8.8,522,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-19-024-01,3,9.8,287|288|89,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|United States|Europe,Taiwan
+ICSA-19-024-02,3,8.8,352|307|319|400|922|119,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSMA-19-022-01,3,8.4,20|532|269,Healthcare and Public Health,Worldwide,Germany
+ICSA-19-022-01,3,7.4,22|287,Critical Manufacturing,Worldwide,Ireland
+ICSA-19-017-01,3,7.3,94|77|77|416|843|824|125,Energy,Worldwide,Japan
+ICSA-19-017-02,3,7,20,Chemical|Critical Manufacturing|Dams|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Switzerland
+ICSA-19-017-03,3,7.6,287|79,Information Technology,Worldwide,United States
+ICSA-19-015-01,3,7.8,20|125|94|822|787|23|125|74|74|798|288,Chemical|Commercial Facilities|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,South America,Brazil
+ICSA-19-010-01,3,8.8,307,Chemical|Critical Manufacturing|Energy,Worldwide,United States
+ICSA-19-010-02,3,6.6,843,Critical Manufacturing,Worldwide,Japan
+ICSA-19-010-03,3,3.3,312,Multiple Sectors,Worldwide,Germany
+ICSA-18-333-02,3,5.7,79,Commercial Facilities|Critical Manufacturing|Government Facilities|Information Technology,Worldwide,United States
+ICSA-19-008-01,3,7.8,416,Critical Manufacturing,Worldwide,France
+ICSA-19-008-02,3,9.3,22|434|611|310,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,Worldwide,France
+ICSA-19-003-01,3,9,20,Energy,Worldwide,France
+ICSA-19-003-02,3,7.5,399,Critical Manufacturing|Energy|Food and Agriculture,Worldwide,Japan
+ICSA-19-003-03,3,7.6,294,Multiple Sectors,Worldwide,United States
+ICSA-18-354-01,3,6.6,20,Critical Manufacturing,Worldwide,United States
+ICSA-18-354-02,3,7.4,601,Commercial Facilities|Energy|Food and Agriculture|Government Facilities|Transportation Systems|Water and Wastewater Systems,Worldwide,France
+ICSA-18-331-02,3,7.5,122,Food and Agriculture|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-18-352-01,3,9.8,306|79,Critical Manufacturing,Worldwide,Sweden
+ICSA-18-352-02,3,7.3,20,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|United States|Europe,Taiwan
+ICSA-18-352-03,3,9.8,284,Critical Manufacturing|Energy,Worldwide,Germany
+ICSA-18-352-04,3,9.4,330,Critical Manufacturing,Worldwide,Germany
+ICSA-18-352-05,3,10,306,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-352-06,3,8.8,287,Multiple Sectors,Worldwide,Switzerland
+ICSA-18-352-07,3,6.3,287,Multiple Sectors,Worldwide,Switzerland
+ICSMA-18-347-01,3,4.6,311,Healthcare and Public Health,Worldwide,Ireland
+ICSA-18-347-01,3,7.8,843|843|121,Critical Manufacturing,Worldwide,France
+ICSA-18-347-02,3,7.5,20|20,Energy,Worldwide,Germany
+ICSA-18-347-03,3,7.2,78,Commercial Facilities|Energy|Financial Services|Healthcare and Public Health,Europe|United States|Australia,Germany
+ICSA-18-347-04,3,7.4,22,Energy,Worldwide,United States
+ICSA-18-345-01,3,7.1,284,Chemical|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-345-02,3,10,122|190|693|693|264|264|121|248|248|248,Critical Manufacturing,Worldwide,Germany
+ICSMA-18-340-01,3,3.5,326,Healthcare and Public Health,United States|Netherlands|Germany|United Kingdom,Netherlands
+ICSA-18-340-01,3,8.2,611,Chemical|Critical Manufacturing|Dams|Energy|Food and Agriculture|Government Facilities|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-18-310-02,3,8.6,306,Critical Manufacturing|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-18-338-01,3,6.6,121|416,Critical Manufacturing,Worldwide,Japan
+ICSA-18-338-02,3,6.1,79,Critical Manufacturing,Europe,Switzerland
+ICSA-18-333-01,3,6.3,502|122,Commercial Facilities|Critical Manufacturing|Energy|Information Technology|Transportation Systems,Worldwide,China
+ICSA-18-331-01,3,7.8,427,Commercial Facilities|Critical Manufacturing|Energy,Worldwide,United Kingdom
+ICSA-18-324-01,3,7.3,121,Critical Manufacturing,Worldwide,Canada
+ICSA-18-324-02,3,8.2,345,Commercial Facilities,Worldwide,France
+ICSA-18-317-01,3,4.2,284,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-317-02,3,8.2,20|20,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-18-317-03,3,4.3,94,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-317-04,3,4.7,79,Chemical|Communications|Critical Manufacturing|Dams|Defense Industrial Base|Energy|Food and Agriculture|Government Facilities|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-317-05,3,5.3,400,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-317-06,3,4,256,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-317-07,3,7.7,287,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-317-08,3,7.5,22|601,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSMA-18-312-01,3,6.3,521,Healthcare and Public Health,Worldwide,Netherlands
+ICSMA-18-310-01,3,8.3,287|78|434|284|284,Healthcare and Public Health,Worldwide,Switzerland
+ICSA-18-305-01,3,9.8,121|258,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-18-305-02,3,7.8,427,Commercial Facilities|Critical Manufacturing|Energy,Worldwide,France
+ICSA-18-305-03,3,10,288|522,Transportation Systems,Europe|Asia,Spain
+ICSA-18-305-04,3,7.5,611,Critical Manufacturing,Worldwide,Switzerland
+ICSA-18-303-01,3,7.6,269,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSA-18-298-01,3,6.1,79,Critical Manufacturing|Energy|Transportation Systems|Water and Wastewater Systems,Worldwide,Czech
+ICSA-18-298-02,3,8.4,284|121,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|United States|Europe,Taiwan
+ICSA-18-296-01,3,9.8,121|73|269|22,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|United States|Europe,Taiwan
+ICSA-18-296-02,3,8.3,294|284|287,Communications,United States,Taiwan
+ICSA-18-296-03,3,7.6,294,Multiple Sectors,United States,Taiwan
+ICSA-18-290-01,3,7,119|125|416|704,Energy,Worldwide,Japan
+ICSA-18-289-01,3,7.8,822|125|680|22|787|121,Chemical|Commercial Facilities|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,South America,Brazil
+ICSA-18-284-01,3,10,121|489,Commercial Facilities|Financial Services|Government Facilities|Healthcare and Public Health|Transportation Systems,Worldwide,Taiwan
+ICSA-18-284-02,3,9.8,330|477|732|798|22|434|89,Commercial Facilities|Financial Services|Government Facilities|Healthcare and Public Health|Transportation Systems,Worldwide,Taiwan
+ICSA-18-284-03,3,6.6,121|787,Critical Manufacturing,Worldwide,Taiwan
+ICSA-18-282-01,3,5.3,623,Multiple Sectors,Worldwide,United States
+ICSA-18-282-02,3,5.9,310,Chemical|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-282-03,3,8.8,269|269,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-18-282-04,3,7.5,352,Chemical|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-282-05,3,5.3,20,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-282-06,3,8.1,341|912|311,Multiple Sectors,Worldwide,China
+ICSA-18-282-07,3,7.3,427,Critical Manufacturing,Worldwide,Japan
+ICSMA-18-277-01,3,3.7,209,Healthcare and Public Health,Worldwide,United States
+ICSMA-18-277-02,3,4.3,209,Healthcare and Public Health,Worldwide,United States
+ICSA-18-277-01,3,9.8,121|787|611|125,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,China
+ICSA-18-275-01,3,5.3,121,Critical Manufacturing,Worldwide,Taiwan
+ICSA-18-275-02,3,7.6,122,Critical Manufacturing|Energy,Worldwide,United States
+ICSA-18-275-03,3,9.8,287|598,Critical Manufacturing|Energy,Worldwide,Turkey
+ICSA-18-270-01,3,10,284|269,Chemical|Energy,Worldwide,United States
+ICSA-18-270-02,3,9.8,120|122,Commercial Facilities|Critical Manufacturing,Europe|Asia,Japan
+ICSA-18-270-03,3,9.8,126|125|121,Commercial Facilities,Worldwide,Japan
+ICSA-18-270-04,3,4.3,125,Critical Manufacturing,Worldwide,Taiwan
+ICSA-18-263-01,3,7.5,306,Commercial Facilities,Worldwide,Austria
+ICSA-18-263-02,3,10,121|122|400,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-18-261-01,3,6.3,121,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,China
+ICSA-18-256-01,3,7.6,269,Commercial Facilities|Critical Manufacturing|Energy|Healthcare and Public Health,Worldwide,United States
+ICSA-18-254-01,3,7.3,416|822|122|787|191|125|121,Critical Manufacturing,Worldwide,Japan
+ICSA-18-254-02,3,7.8,120,Critical Manufacturing,Worldwide,Japan
+ICSA-18-254-03,3,7.3,427,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-254-04,3,9.1,284,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-254-05,3,8.6,20,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-249-01,3,8.6,287|256,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-18-247-01,3,8.4,121,Multiple Sectors,Worldwide,United States
+ICSA-18-242-01,3,9.8,20|79|200|276|319|352|384|400|798,Healthcare and Public Health,Worldwide,Netherlands
+ICSMA-18-240-01,3,9.8,17,Healthcare and Public Health,Worldwide,United States
+ICSA-18-240-01,3,7.7,199|264|264,Commercial Facilities,Worldwide,France
+ICSA-18-240-02,3,4.8,754,Commercial Facilities,Worldwide,France
+ICSA-18-240-03,3,8.2,79,Energy,Worldwide,France
+ICSA-18-240-04,3,9.8,287,Chemical|Defense Industrial Base|Energy,Worldwide,Switzerland
+ICSMA-18-235-01,3,9.4,287,Healthcare and Public Health,Europe,United States
+ICSMA-18-233-01,3,5.7,400,Healthcare and Public Health,Worldwide,Netherlands
+ICSA-18-233-01,3,8.6,121,Critical Manufacturing|Energy|Food and Agriculture,Worldwide,Japan
+ICSMA-18-228-01,3,6.1,20|798,Healthcare and Public Health,Worldwide,Netherlands
+ICSA-18-228-01,3,9.6,427|23|269|121,Chemical|Energy,Worldwide,United States
+ICSA-18-191-03,3,7.4,22|287,Critical Manufacturing,Worldwide,United States
+ICSMA-18-226-01,3,7.3,269,Healthcare and Public Health,Worldwide,Netherlands
+ICSA-18-226-01,3,8.6,276|276,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-226-02,3,5.9,319,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-226-03,3,8.8,23|20,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-221-01,3,9.8,78|78|284|522,Government Facilities|Commercial Facilities,Worldwide,United States
+ICSA-18-221-02,3,9.8,200|352|79|548,Communications,Worldwide,Australia
+ICSMA-18-219-01,3,4.9,345|257,Healthcare and Public Health,Worldwide,Ireland
+ICSMA-18-219-02,3,5.3,319|294,Healthcare and Public Health,Worldwide,Ireland
+ICSA-18-219-01,3,8.8,121|125,Critical Manufacturing,Worldwide,Taiwan
+ICSA-18-212-01,3,9.8,916,Information Technology,Asia|Europe,South Korea
+ICSA-18-212-02,3,4.3,209,Critical Manufacturing,Worldwide,United States
+ICSA-18-212-03,3,8.8,121|122|787|611,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,China
+ICSA-18-212-04,3,6.1,79,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-18-212-05,3,9.8,119,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-18-200-01,3,9.8,121,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-18-200-02,3,9.8,121,Critical Manufacturing|Energy|Food and Agriculture|Chemical|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-18-200-03,3,9.8,200|288|256|319,Commercial Facilities|Critical Manufacturing|Information Technology,Worldwide,United States
+ICSA-18-200-04,3,7.5,400,Critical Manufacturing|Energy|Transportation Systems,Worldwide,Taiwan
+ICSA-18-198-01,3,7,20,Chemical|Critical Manufacturing|Energy|Dams|Water and Wastewater Systems|Food and Agriculture,Worldwide,Switzerland
+ICSA-18-198-02,3,8,79|434|732,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,Worldwide,Germany
+ICSA-18-198-03,3,7.5,287,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSA-18-193-01,3,5.6,121,Energy,Worldwide,Ireland
+ICSA-18-191-01,3,9.8,798|306,Critical Manufacturing|Transportation Systems,Worldwide,Denmark
+ICSA-18-191-02,3,8.2,276|611|400,Energy,Worldwide,United States
+ICSA-18-184-01,3,8.6,20|295|20|399|20,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSMA-18-179-01,3,6.4,259|749,Healthcare and Public Health,Worldwide,Ireland
+ICSA-18-172-01,3,7.3,121,Commercial Facilities|Communications|Critical Manufacturing|Energy|Healthcare and Public Health,Worldwide,Taiwan
+ICSA-18-172-02,3,8.6,20,Chemical|Critical Manufacturing|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSMA-18-165-01,3,10,125|121|125|125|125|121|121|121,Healthcare and Public Health,Worldwide,United States
+ICSA-18-165-01,3,7.5,264,Chemical|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-163-01,3,10,121|78|79|20,Commercial Facilities|Critical Manufacturing|Energy,United States|Europe|Asia,France
+ICSA-18-163-02,3,5.8,79|79,Chemical|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-158-01,3,8.8,428,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSMA-18-156-01,3,8.3,287|200|121,Healthcare and Public Health,Worldwide,Netherlands
+ICSA-18-156-01,3,9.8,287|352|256,Energy,Worldwide,Switzerland
+ICSA-18-151-01,3,7.3,125|122|121,Critical Manufacturing,Worldwide,Taiwan
+ICSA-18-151-02,3,7.3,287|611|23,Energy|Water and Wastewater Systems|Others,Worldwide,United States
+ICSA-18-151-03,3,9.8,798|522|384|798|400,Critical Manufacturing|Energy|Food and Agriculture,Worldwide,Japan
+ICSMA-18-144-01,3,7.5,284|522|256,Healthcare and Public Health,Worldwide,United States
+ICSA-18-144-01,3,9.8,122|119|601,Commercial Facilities|Energy|Food and Agriculture|Government Facilities|Transportation Systems|Water and Wastewater Systems,Worldwide,France
+ICSMA-18-142-01,3,6.3,356|356,Healthcare and Public Health,Worldwide,United States
+ICSA-18-142-01,3,10,306|276|400|79,Energy,Estonia|Latvia|Lithuania|Finland,Estonia
+ICSMA-18-137-01,3,6.3,311|693,Healthcare and Public Health,Worldwide,Ireland
+ICSA-18-137-01,3,7.5,20,Critical Manufacturing,Worldwide,United States
+ICSA-18-137-02,3,9.1,77|200|121|121,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSA-18-137-03,3,7.5,20,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-137-04,3,7.3,122,Commercial Facilities|Communications|Critical Manufacturing|Energy|Healthcare and Public Health,Worldwide,Taiwan
+ICSA-18-135-01,3,9.8,89|548|264|22|22|1|122|822|73|346|269,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|United States|Europe,Taiwan
+ICSA-18-130-01,3,6.7,552,Chemical|Energy,Worldwide,United States
+ICSA-18-130-02,3,5.5,416,Critical Manufacturing,Worldwide,United States
+ICSA-18-102-02,3,9.8,79|119,Chemical|Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSMA-18-128-01,3,7.4,287|78,Healthcare and Public Health,Worldwide,United States
+ICSA-18-128-01,3,7.5,20|20,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-128-02,3,8.1,502,Unknown,Worldwide,Germany
+ICSA-18-128-03,3,4.8,295,Commercial Facilities,Worldwide,Germany
+ICSMA-18-123-01,3,8.4,250|668|798,Healthcare and Public Health,Worldwide,United States
+ICSA-18-123-01,3,9.8,20|121,Critical Manufacturing,North America|Europe|Australia|China,Taiwan
+ICSA-18-116-01,3,7.1,121,Critical Manufacturing,Worldwide,Taiwan
+ICSA-18-116-02,3,5.9,121,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,China
+ICSMA-18-114-01,3,6.8,323,Healthcare and Public Health,Worldwide,United States
+ICSA-18-114-01,3,8.8,78|319|285|284|522,Communications,Worldwide,United States
+ICSA-18-114-02,3,8.2,120,Communications|Information Technology,Worldwide,United States
+ICSA-18-114-03,3,6.3,122|415|787,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|United States|Europe,Taiwan
+ICSA-18-109-01,3,4,538,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSMA-18-107-01,3,7.5,287|920,Healthcare and Public Health,Worldwide,United States
+ICSMA-18-107-02,,,,Healthcare and Public Health,United States|Asia|Europe|Middle East|Africa,United States
+ICSA-18-107-01,3,9.8,121,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems|Water and Wastewater Systems,Worldwide,France
+ICSA-18-107-02,3,9,119|119,Multiple Sectors,Worldwide,France
+ICSA-18-107-03,3,9.8,20|119|119|134,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-18-107-04,3,9.8,20|399|20|20|20|20|119|134,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-18-107-05,3,9.8,20|399|388|20|20|20|119|134,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-18-102-01,3,6.5,264,Critical Manufacturing|Energy|Food and Agriculture,Worldwide,Japan
+ICSA-18-100-01,3,5.3,287|311,Commercial Facilities|Defense Industrial Base|Emergency Services|Government Facilities|Energy|Materials and Mining|Water and Wastewater Systems,Worldwide,United States
+ICSA-18-100-02,3,5.3,122|121|843,Critical Manufacturing,Worldwide,Japan
+ICSA-18-095-01,3,10,287|287|287|287|287|287,Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSA-18-095-02,3,7.5,200,Critical Manufacturing|Energy|Transportation Systems,Worldwide,Taiwan
+ICSA-18-095-03,3,7,703,Chemical|Commercial Facilities|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,South America,Brazil
+ICSA-18-093-01,3,9.8,121|121|254|119|476|776|122|284,Commercial Facilities,Worldwide,Germany
+ICSMA-18-088-01,3,10,119|17|19|200|94|928|78|611,Healthcare and Public Health,Worldwide,Netherlands
+ICSA-18-088-01,3,5.3,404,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,Worldwide,United States|Germany|Switzerland|Poland|China|India
+ICSA-18-088-02,3,9.8,303,Chemical|Critical Manufacturing|Food and Agriculture,Worldwide,Germany
+ICSA-18-088-03,3,7.5,20,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-086-01,3,5.9,121|798|327,Critical Manufacturing,Worldwide,France
+ICSMA-18-086-01,3,5.3,287|311,Healthcare and Public Health,Worldwide,Netherlands
+ICSA-18-081-01,3,5.1,284,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-081-02,3,7.8,822,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-079-01,3,9.8,287|89|352|284|918|79,Commercial Facilities|Energy|Healthcare and Public Health|Financial Services|Healthcare and Public Health,Europe|United States|Australia,Germany
+ICSA-18-079-02,3,5.3,20,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-072-01,3,5.3,121,Energy,Worldwide,Japan
+ICSA-18-072-02,3,7.5,502|276|20,Multiple Sectors,Worldwide,United States
+ICSA-18-072-03,3,6.1,693|200,Multiple Sectors,Worldwide,United States
+ICSA-18-072-04,3,9.3,264|79,Multiple Sectors,Worldwide,United States
+ICSMA-18-037-02,3,9.8,287,Healthcare and Public Health,Worldwide,United States
+ICSA-18-067-01,3,7.5,306|326,Energy,Worldwide,Germany
+ICSA-18-067-02,3,7.5,306,Energy,Worldwide,Germany
+ICSA-18-065-01,3,7.5,384|598|319|326|307,Multiple Sectors,Worldwide,United States
+ICSA-18-065-02,3,7.8,427,Critical Manufacturing,Worldwide,France
+ICSA-18-065-03,3,6.3,20,Energy,Worldwide,Dublin|Ireland
+ICSA-18-060-01,3,8.2,121|121|264,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-060-02,3,9.8,565|130|476,Commercial Facilities|Critical Manufacturing|Transportation Systems,Worldwide,Taiwan
+ICSA-18-060-03,3,6.3,121,Commercial Facilities|Communications|Critical Manufacturing|Energy|Healthcare and Public Health,Worldwide,Taiwan
+ICSA-18-058-01A,3,5.9,310,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-058-02,3,8.3,121|122|787,Commercial Facilities|Critical Manufacturing|Energy,Asia|Europe|United States,Taiwan
+ICSA-18-058-03,3,7.5,121,Energy|Water and Wastewater Systems,Worldwide,United States
+ICSMA-18-058-01,3,7.1,257|23|923,Healthcare and Public Health,Worldwide,Ireland
+ICSMA-18-058-02,3,5.9,20|200|264|428|489|310,Healthcare and Public Health,Worldwide,Netherlands
+ICSA-18-051-01,3,5.8,200,Critical Manufacturing|Energy,Worldwide,Switzerland
+ICSA-18-046-01,3,9.8,77,Commercial Facilities,Worldwide,Italy
+ICSA-18-046-02,3,9.8,121|119,Energy,Worldwide,United States
+ICSA-18-046-03,3,6.4,295|256,Commercial Facilities|Critical Manufacturing|Energy,Worldwide,France
+ICSA-18-046-04,3,7.2,434,Critical Manufacturing|Energy,Worldwide,France
+ICSA-18-044-01,3,9.8,287,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,Worldwide,United States|Germany|Switzerland|Poland|China|India
+ICSA-18-044-02,3,7,815,Commercial Facilities|Critical Manufacturing|Energy,Worldwide,France
+ICSMA-18-037-01,3,6.7,427,Healthcare and Public Health,United States|Europe|Asia,United States
+ICSA-18-032-01,3,8.6,121,Critical Manufacturing,Worldwide,Japan
+ICSA-18-032-02,3,9.8,121,Critical Manufacturing|Energy,Worldwide,Germany
+ICSA-18-032-03,3,9.9,476|121|121|121|121|122|284,Communications|Financial Services|Government Facilities|Healthcare and Public Health|Information Technology,Worldwide,Netherlands
+ICSA-18-030-01,3,7.8,354,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSA-18-030-02,3,8.8,288|264|400,Critical Manufacturing,Worldwide,Germany
+ICSA-18-025-01,3,9.8,20,Energy,Asia,China
+ICSA-18-025-02B,3,9.8,287,Commercial Facilities,Worldwide,Germany
+ICSMA-18-025-01,3,6.7,613,Healthcare and Public Health,Worldwide,Netherlands
+ICSA-18-023-01,3,5.3,22|89,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|United States|Europe,Taiwan
+ICSA-18-023-02,3,6.5,20,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-018-01A,3,9.8,121|121|20|119|254|119|119|284,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-18-011-01,3,5.3,121|122,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,China
+ICSA-18-011-02,3,7.8,428,Critical Manufacturing|Energy|Transportation Systems,Worldwide,Taiwan
+ICSA-18-011-03,3,9.8,285|200,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSA-18-009-01,3,8.6,120,Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-234-04,3,9.8,312|300|287,Transportation Systems,United States|Asia,United States
+ICSA-18-004-01,3,5.5,121|416|787|843,Critical Manufacturing,Worldwide,Taiwan
+ICSA-18-004-02A,3,8.2,822|121|22|89|20|434|416,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|United States|Europe,Taiwan
+ICSA-17-355-01,3,6.5,255,Critical Manufacturing|Energy|Transportation Systems,Worldwide,Taiwan
+ICSA-17-355-02,3,7.1,22|22|284,Commercial Facilities,Worldwide,France
+ICSA-17-353-01,3,6.5,523,Critical Manufacturing|Energy,Worldwide,Switzerland
+ICSA-17-353-02,3,8.1,323,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSA-17-353-03,3,5.3,89|89,Critical Manufacturing|Energy|Water and Wastewater Systems,United Kingdom|United States|Australia|Poland|Canada|Estonia,Malaysia
+ICSA-17-353-04,3,5.9,494,Commercial Facilities|Transportation Systems,Worldwide,Germany
+ICSA-17-353-05,3,7.3,122,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,China
+ICSA-17-341-01,3,9.8,121,Unknown,Worldwide,China
+ICSA-17-341-02,3,7.5,20,Chemical|Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-341-03,3,8.2,79,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSA-17-339-01,3,7.5,20,Commercial Facilities|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-17-334-01,3,5.3,287|287|288|20|288,Energy,Worldwide,Germany
+ICSA-17-334-02,3,6.1,79,Critical Manufacturing|Energy|Transportation Systems|Water and Wastewater Systems,Worldwide,Czech
+ICSA-17-332-01,3,8.1,400|119,Chemical|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSMA-17-332-01,3,4.8,287,Healthcare and Public Health,Worldwide,United States
+ICSA-17-325-01,3,6.8,323,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSA-17-320-01,3,8.6,74|200|400,Critical Manufacturing|Energy|Transportation Systems,Worldwide,Taiwan
+ICSA-17-320-02,3,9.8,306|79|94,Energy,Worldwide,Germany
+ICSA-17-318-01,3,6.8,254|254|254|254|254|254|254|254|254|254,Chemical|Energy|Food and Agriculture|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-17-318-02A,3,6.8,254,Critical Manufacturing|Energy,Worldwide,Switzerland
+ICSMA-17-318-01,3,3,522,Healthcare and Public Health,Worldwide,Netherlands
+ICSA-17-313-01,3,6.7,427,Commercial Facilities|Critical Manufacturing|Information Technology,Worldwide,United States
+ICSA-17-313-02,3,9.8,121,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems|Water and Wastewater Systems,Worldwide,France
+ICSA-17-306-01,3,4.9,20,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-17-306-02,3,7.3,121|822,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|United States|Europe,Taiwan
+ICSA-17-304-01,3,6.2,20,Communications,Worldwide,Switzerland
+ICSA-17-304-02,3,7.8,284|427,Chemical|Communications|Critical Manufacturing|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,North America|Europe,Canada
+ICSA-17-299-01,3,9.8,321|798,Commercial Facilities|Critical Manufacturing|Transportation Systems,Worldwide,United States
+ICSA-17-299-02,3,6.9,323,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-292-01,3,8.8,427,Critical Manufacturing,Europe,Switzerland
+ICSMA-17-292-01,3,4.6,321|311,Healthcare and Public Health,Worldwide,United States
+ICSA-17-290-01,3,6.8,427,Critical Manufacturing|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,Europe|India|United States,Italy
+ICSA-17-285-01,3,8.8,602|613|352|200|620,Water and Wastewater Systems,Worldwide,United States
+ICSA-17-285-02,3,7.5,121,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,China
+ICSA-17-285-03,3,8.2,287,Commercial Facilities|Communications|Water and Wastewater Systems,Worldwide,Israel
+ICSA-17-285-04A,3,8.1,120|125,Communications|Critical Manufacturing|Healthcare and Public Health|Transportation Systems,Worldwide,Netherlands
+ICSA-17-285-05,3,7.5,288|22,Commercial Facilities,Worldwide,Germany
+ICSA-17-283-01,3,8.1,290,Commercial Facilities|Critical Manufacturing,Worldwide,Canada
+ICSA-17-283-02,3,9.8,352|287,Critical Manufacturing,Europe|Asia,Taiwan
+ICSA-17-278-01A,3,6.8,121,Chemical|Critical Manufacturing|Dams|Energy|Food and Agriculture|Government Facilities|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-278-02,3,9.8,288,Energy,Worldwide,Germany
+ICSA-17-243-01-0,3,8.2,611,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-17-271-01B,3,8.8,284,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-17-264-01,3,9.8,306,Critical Manufacturing|Energy|Healthcare and Public Health|Water and Wastewater Systems,Worldwide,France
+ICSA-17-264-02,3,8.6,287,Commercial Facilities|Communications|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-264-03,3,8.8,78,Commercial Facilities|Communications|Critical Manufacturing,Worldwide,United States
+ICSA-17-264-04,3,10,287,Critical Manufacturing,Worldwide,Switzerland
+ICSA-17-234-05,3,5.3,200,Chemical|Energy,Worldwide,Switzerland
+ICSA-17-262-01,3,9,284,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSA-17-257-01,3,8.1,23|331|79|522,Critical Manufacturing|Energy,Worldwide,Austria
+ICSA-17-255-01,3,7.8,428,Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,Worldwide,Czech
+ICSMA-17-255-01,3,6.5,460|755,Healthcare and Public Health,Worldwide,Netherlands
+ICSA-17-250-01,3,5.3,269,Critical Manufacturing,Europe,Switzerland
+ICSA-17-250-02,3,7.5,476,Communications|Critical Manufacturing|Information Technology,Worldwide,Germany
+ICSMA-17-250-01,3,7.3,428,Healthcare and Public Health,Worldwide,South Korea
+ICSMA-17-250-02A,3,8.1,120|125|798|284|798|259|295|260,Healthcare and Public Health,Worldwide,United Kingdom
+ICSA-17-243-02,3,7.5,522|300,Commercial Facilities|Transportation Systems,Worldwide,Germany
+ICSA-17-243-03,3,4.3,400,Energy,Worldwide,Germany
+ICSA-17-243-04,3,9.8,306|89,Energy|Transportation Systems,Worldwide,United States
+ICSA-17-243-05,3,9.8,89,Critical Manufacturing|Energy|Transportation Systems,Worldwide,Taiwan
+ICSA-17-150-01,3,6.5,611,Commercial Facilities,Worldwide,United States
+ICSMA-17-241-01,3,7.5,287|920|311,Healthcare and Public Health,Worldwide,United States
+ICSA-17-241-01,3,7.1,276|427,Critical Manufacturing|Energy|Water and Wastewater Systems,United States|Europe,United States
+ICSA-17-241-02,3,7.8,89|119|121|122|134|287|732|266|427,Critical Manufacturing|Energy|Water and Wastewater Systems,East Asia|United States|Europe,Taiwan
+ICSA-17-236-01,3,10,352|798|321,Commercial Facilities|Critical Manufacturing|Energy,Worldwide,Sweden
+ICSA-17-208-04,3,8.8,119,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-234-01,3,8.3,428|22|434,Commercial Facilities,Worldwide,United States
+ICSA-17-234-02,3,7.3,121,Critical Manufacturing,Europe,Switzerland
+ICSA-17-234-03,3,5.3,22,Critical Manufacturing,Europe,Switzerland
+ICSMA-17-229-01,3,9.1,798|312,Healthcare and Public Health,Australia|United States|Japan|Europe,Netherlands
+ICSA-17-227-01,3,4.8,122,Critical Manufacturing,North America|East Asia,Taiwan
+ICSMA-17-227-01,3,4.6,20,Healthcare and Public Health,Worldwide,China|United States
+ICSA-17-222-01,3,7,427,Chemical|Commercial Facilities|Critical Manufacturing|Defense Industrial Base|Energy|Food and Agriculture|Government Facilities|Healthcare and Public Health|Energy|Materials and Mining|Water and Wastewater Systems,Unknown,Russia
+ICSA-17-222-02,3,7.8,427,Energy,Unknown,Czech
+ICSA-17-222-03,3,7.8,427,Energy,Unknown,Czech
+ICSA-17-222-04,3,7.3,121|122|269,Critical Manufacturing|Energy,Worldwide,Japan
+ICSA-17-222-05,3,9.8,23,Critical Manufacturing|Energy,Worldwide,Switzerland
+ICSA-17-220-01,3,9.8,79|285,Multiple Sectors,Worldwide,United States
+ICSA-17-220-02,3,7.2,427,Critical Manufacturing|Energy|Transportation Systems,Worldwide,Taiwan
+ICSA-17-215-01,3,7.2,427,Energy,Worldwide,France
+ICSMA-17-215-01,3,9.8,94|119,Healthcare and Public Health,Worldwide,Germany
+ICSMA-17-215-02,3,9.8,94|94|119|264,Healthcare and Public Health,Worldwide,Germany
+ICSA-17-213-01,3,9.8,121|122|787,Critical Manufacturing,Worldwide,Japan
+ICSA-17-213-02,3,10,,Energy,Worldwide,France
+ICSA-17-208-01,3,8.8,121|119,Transportation Systems,Worldwide,Germany
+ICSA-17-208-02,3,5,321|326,Energy|Materials and Mining|Water and Wastewater Systems,United States|Europe,United States
+ICSA-17-208-03,3,9.4,287|311,Commercial Facilities,Worldwide,United States
+ICSA-17-152-02,3,6,121|295,Transportation Systems|Critical Manufacturing,Worldwide,Netherlands
+ICSA-17-201-01,3,8.1,352|200|298|146,Commercial Facilities,Worldwide,France
+ICSA-17-138-03,3,7.5,20,Critical Manufacturing|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-194-01,3,9.8,287|269|300|257,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-17-194-03,3,7.4,300|288,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-17-192-01,3,5.3,787,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-17-192-02,3,7.3,119,Critical Manufacturing,Worldwide,Japan
+ICSA-17-192-03,3,7.5,287|264,Energy,Worldwide,Switzerland
+ICSA-17-192-04,3,7.1,352,Multiple Sectors,Worldwide,United States
+ICSA-17-192-05,3,7,,Multiple Sectors,Worldwide,United States
+ICSA-17-192-06,3,7.2,284,Energy,Worldwide,United States
+ICSA-17-187-01,3,7.4,306|306,Commercial Facilities,Worldwide,Germany
+ICSA-17-187-02,3,7.5,862|862|862|20|287,Energy,Worldwide,Germany
+ICSA-17-187-03F,3,8.6,20|862|862|862|20|287,Energy,Worldwide,Germany
+ICSA-17-187-04,3,9.8,121|400|476,Critical Manufacturing|Dams|Defense Industrial Base|Energy|Food and Agriculture|Government Facilities|Energy|Materials and Mining|Water and Wastewater Systems|Transportation Systems|Water and Wastewater Systems,Worldwide,France
+ICSA-17-187-05,3,6.7,319|326,Critical Manufacturing|Water and Wastewater Systems,Worldwide,France
+ICSA-17-180-01A,3,9.8,264,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-17-180-02,3,10,89|89|89|89|89|89|89|89|89|22|22|22|22|22|287|259|284|730|209|209|20|94,Commercial Facilities|Critical Manufacturing|Energy,United States|Europe|Asia,France
+ICSA-17-180-03,3,9.8,287,Energy,Worldwide,Germany
+ICSA-17-178-01,3,7.5,287,Critical Manufacturing,Worldwide,United States
+ICSA-17-173-01,3,9.8,287,Chemical|Critical Manufacturing|Food and Agriculture,Worldwide,Germany
+ICSA-17-173-02,3,6.5,284,Energy,Worldwide,Germany
+ICSA-17-171-01,3,7.3,89,Critical Manufacturing|Energy|Water and Wastewater Systems,United Kingdom|United States|Australia|Poland|Canada|Estonia,Malaysia
+ICSA-17-166-01,3,7.6,284|269,Information Technology,Worldwide,United States
+ICSA-17-164-01,3,7.5,400|79|548,Chemical|Critical Manufacturing|Communications|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,North America|Europe,Canada
+ICSA-17-164-02,3,8.9,287|287,Multiple Sectors,Worldwide,United States
+ICSA-17-164-03,3,7.1,352,Multiple Sectors,Worldwide,United States
+ICSA-17-157-01,3,8.6,862,Critical Manufacturing|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-157-02,3,7.5,121,Commercial Facilities,United States,United States
+ICSA-17-152-01,3,5.3,259,Communications|Energy|Government Facilities|Information Technology|Transportation Systems,Worldwide,United States
+ICSA-17-143-01,3,9.8,307|256|352,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,Worldwide,Taiwan
+ICSA-17-115-04,3,9.8,343|323|200|307|521,Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSMA-17-082-02,3,5.4,601,Healthcare and Public Health,United States,United States
+ICSA-17-138-01,3,7.3,22,Healthcare and Public Health,Worldwide,Germany
+ICSA-17-138-02,3,7.3,276,Critical Manufacturing|Energy|Healthcare and Public Health|Water and Wastewater Systems,Worldwide,France
+ICSA-17-136-01,3,9.1,287|256,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,United States|Europe|Asia,United States
+ICSA-17-136-02,3,7.8,121|427,Critical Manufacturing|Dams|Defense Industrial Base|Energy|Food and Agriculture|Government Facilities|Energy|Materials and Mining|Water and Wastewater Systems|Transportation Systems|Water and Wastewater Systems,Worldwide,France
+ICSA-17-136-03,3,9.8,284,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,South Korea
+ICSA-17-136-04,3,5.6,20,Energy,Worldwide,France
+ICSA-17-131-01,3,8.6,400|287,Critical Manufacturing,Worldwide,Germany
+ICSA-17-131-02,3,8.8,77,Critical Manufacturing|Energy|Transportation Systems,Americas|Europe,Spain
+ICSA-17-129-01,3,6.5,20,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-17-129-02,3,6.5,20|20,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-17-129-03,3,4.9,20,Food and Agriculture|Chemical|Energy|Water and Wastewater Systems,Worldwide,Germany
+ICSA-17-094-04,3,10,20|399|399|399|399|200|20|399|399|190|287|20|399|119|310|399|399|20|399|189|399|310|20|399|20|20|399,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-124-01,3,10,287|260,Critical Manufacturing|Others,Worldwide,China
+ICSA-17-124-02,3,9.8,836|260,Commercial Facilities|Critical Manufacturing|Financial Services|Government Facilities|Transportation Systems,Worldwide,China
+ICSA-17-124-03,3,7.1,36,Critical Manufacturing,Taiwan|United States|Europe,Taiwan
+ICSA-17-094-05,3,6.8,400,Critical Manufacturing|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-122-01,3,6.6,611,Critical Manufacturing|Energy|Healthcare and Public Health|Water and Wastewater Systems,Worldwide,France
+ICSA-17-122-02,3,6.3,485,Commercial Facilities|Critical Manufacturing|Food and Agriculture|Healthcare and Public Health|Information Technology,Worldwide,United States
+ICSA-17-122-03,3,9.8,603,Critical Manufacturing,Worldwide,Ireland
+ICSA-17-117-01B,3,8.1,261,Chemical|Critical Manufacturing|Dams|Energy|Food and Agriculture|Government Facilities|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-115-01,3,7,427,Critical Manufacturing|Water and Wastewater Systems,United States,United States
+ICSA-17-115-02,3,10,285|352|522,Critical Manufacturing|Energy,Worldwide,Canada
+ICSA-17-115-03,3,7.5,300|321,Transportation Systems,United States,United States
+ICSA-17-103-01,3,8.8,122|121,Critical Manufacturing,Worldwide,China
+ICSA-17-103-02A,3,10,321|693,Commercial Facilities,Worldwide,France
+ICSA-17-101-01,3,10,294|657,Critical Manufacturing|Dams|Defense Industrial Base|Energy|Food and Agriculture|Government Facilities|Energy|Materials and Mining|Water and Wastewater Systems|Transportation Systems|Water and Wastewater Systems,Worldwide,France
+ICSA-17-096-01A,3,6.1,644|79,Critical Manufacturing,Worldwide,Austria
+ICSA-17-094-01,3,6.8,427,Critical Manufacturing|Energy,Worldwide,France
+ICSA-17-094-02B,3,9.8,259|434|284,Food and Agriculture,United States|Europe|South America|Asia,Iceland
+ICSA-17-094-03,3,9.8,20,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-089-01,3,8.8,352|200|326,Critical Manufacturing|Energy|Healthcare and Public Health|Water and Wastewater Systems,Worldwide,France
+ICSA-17-089-02,3,7.5,343|330|522,Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems,Worldwide,France
+ICSA-17-087-01,3,8.8,285|79|352|285|80,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-17-087-02,3,9.8,434|121,Critical Manufacturing|Energy,Worldwide,Germany
+ICSA-17-082-01,3,5.3,22,Chemical|Commercial Facilities|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,South America,Brazil
+ICSMA-17-082-01,3,7.3,259,Healthcare and Public Health,Worldwide,United States
+ICSA-17-047-01,3,7,427,Commercial Facilities|Defense Industrial Base|Energy|Government Facilities,Worldwide,United States
+ICSA-17-047-02,3,8.8,428,Chemical|Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-075-01,3,7.3,284,Chemical|Commercial Facilities|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,South America,Brazil
+ICSA-17-073-01,3,7.3,121,Commercial Facilities|Critical Manufacturing,Asia|Europe,Taiwan
+ICSA-17-068-01,3,7.5,20,Critical Manufacturing,Worldwide,France
+ICSA-17-066-01,3,9.8,255,Critical Manufacturing|Energy|Healthcare and Public Health|Water and Wastewater Systems,Worldwide,France
+ICSA-17-061-01,3,7.5,284,Commercial Facilities,Worldwide,Dublin|Ireland
+ICSA-17-061-02,3,7.5,400,Energy,Worldwide,France
+ICSA-17-061-03,3,7.4,300,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-17-059-01,3,8.8,352|79,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-17-054-02,3,10,321,Critical Manufacturing,Worldwide,United States
+ICSA-17-054-01,3,7.5,121,Commercial Facilities|Critical Manufacturing,Africa|Americas|Asia|Australia|Europe|Middle East,Germany
+ICSA-17-054-03,3,7.5,400,Defense Industrial Base|Energy|Government Facilities|Energy|Materials and Mining|Water and Wastewater Systems|Transportation Systems,United States|China|Russia|India,France
+ICSA-17-045-01,3,7.1,427,Critical Manufacturing,Taiwan|United States|Europe,Taiwan
+ICSA-17-045-02,3,9.8,288|78,Commercial Facilities|Energy|Healthcare and Public Health,Europe|United States|Australia,Germany
+ICSA-17-045-03,3,9,287,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-17-040-01,3,7.5,22|352,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,South Korea
+ICSA-17-038-01,3,7.2,427,Communications|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,Italy
+ICSMA-17-017-01,3,4.9,522,Healthcare and Public Health,Worldwide,United States
+ICSMA-17-017-02A,3,4.9,522|254,Healthcare and Public Health,Worldwide,United States
+ICSA-17-033-01,3,9.8,256|522|384|269|23,Critical Manufacturing|Energy|Water and Wastewater Systems,Europe|Middle East,United States
+ICSA-17-031-01A,3,10,79|284|352|200|259,Energy,Russia,Russia
+ICSA-17-031-02,3,7.3,89,Critical Manufacturing|Energy|Water and Wastewater Systems|Transportation Systems,United Kingdom|United States|Australia|Poland|Canada|Estonia,Malaysia
+ICSA-17-026-01,3,5.3,22,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-17-026-02A,3,7.1,22|918|352|200,Multiple Sectors,Worldwide,United States
+ICSA-17-024-01,3,7.3,255,Multiple Sectors,Worldwide,United Kingdom
+ICSA-17-019-01A,3,8.8,79|77,Commercial Facilities,United States,France
+ICSA-17-017-01,3,9.8,99,Critical Manufacturing,Worldwide,Germany
+ICSA-16-336-05B,3,6.4,522,Multiple Sectors,Worldwide,United States
+ICSA-17-012-01,3,9.8,89|592,Critical Manufacturing|Food and Agriculture,Worldwide,Taiwan
+ICSA-17-012-02,3,7.3,89,Unknown,Unknown,Japan
+ICSA-17-012-03,3,10,284|352|200,Energy,Worldwide,Switzerland
+ICSA-17-010-01A,3,6.1,533,Multiple Sectors,Worldwide,United States
+ICSMA-17-009-01A,3,8.9,300,Healthcare and Public Health,Worldwide,United States
+ICSA-16-343-05,3,10,121,Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems|Others,Worldwide,United States
+ICSA-16-336-06,3,6.5,319|732,Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSA-16-357-01,3,7.5,22,Commercial Facilities,Europe,Finland
+ICSA-16-357-02,3,9.1,592,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,Worldwide,Germany
+ICSA-16-355-01,3,5.9,332,Commercial Facilities,Worldwide,Germany
+ICSA-16-350-01,3,8,121,Commercial Facilities|Critical Manufacturing,Europe|Asia,Taiwan
+ICSA-16-350-02,3,7.5,319|521,Commercial Facilities|Energy,Europe|Asia|South America,United States
+ICSA-16-348-01,3,6.1,79|200,Commercial Facilities,United States|Europe|Asia,Israel
+ICSA-16-348-02,3,5.5,400|428,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,United States|Europe|Asia,Taiwan
+ICSA-16-348-03,3,7.8,122|787,Critical Manufacturing,United States|Europe|Asia,Taiwan
+ICSA-16-348-04,3,4.2,119,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-348-05,3,7.5,326|693,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-343-01,3,5.3,264|312,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,United States|Europe|Asia,Taiwan
+ICSA-16-343-02,3,7.2,784,Commercial Facilities|Critical Manufacturing,Europe,Germany
+ICSA-16-343-03,3,9.8,79,Commercial Facilities|Critical Manufacturing|Water and Wastewater Systems,United States|Europe,Austria
+ICSA-16-343-04,3,5.3,22,Transportation Systems,United States|Europe|Asia,Germany
+ICSA-16-341-01,3,6.8,77,Transportation Systems,United States|Europe|Asia,United States
+ICSA-16-231-01-0,3,8.6,78,Energy,North America,United States
+ICSA-16-336-01,3,9.8,798|257|552|633,Energy,Worldwide,Germany
+ICSA-16-336-02,3,9.8,255|264|120|79|352|307|256|400,Critical Manufacturing|Energy|Transportation Systems,Worldwide,Taiwan
+ICSA-16-336-03,3,8.6,327|412,Commercial Facilities|Critical Manufacturing|Food and Agriculture,Worldwide,Japan
+ICSA-16-336-04,3,7.5,200|22|264,Commercial Facilities|Critical Manufacturing|Energy|Government Facilities,Worldwide,Taiwan
+ICSMA-16-306-01,3,9.9,732|300,Healthcare and Public Health,Worldwide,United Kingdom
+ICSA-16-334-01,3,7.5,611,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-16-334-02,3,6.8,269,Chemical|Energy,Worldwide,United States
+ICSA-16-334-03,3,5,306,Chemical|Energy,Worldwide,United States
+ICSA-16-327-01,3,6.6,20|269,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-327-02,3,6.3,345|614,Chemical|Critical Manufacturing|Food and Agriculture,Worldwide,Germany
+ICSA-16-322-01,3,9.8,522,Commercial Facilities|Healthcare and Public Health|Government Facilities,Worldwide,Germany
+ICSA-16-322-02,3,7.5,20|415|89,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,United States|Europe|Asia,Taiwan
+ICSA-16-320-01,3,7.1,264|306|522|352,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,United States,United States
+ICSA-16-315-01,3,3,23,Information Technology,United States|Europe|Asia,United States
+ICSA-313-01,3,7.3,312|592|767,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Europe|North America|Asia,Germany
+ICSA-16-313-02,3,6.4,269,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICS-VU-313-03,3,7.1,437,Multiple Sectors,Worldwide,United States
+ICSA-16-308-01,3,6.5,287|264,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,Asia|Europe,Taiwan
+ICSA-16-308-02,3,5.3,400|400,Critical Manufacturing|Food and Agriculture,Worldwide,France
+ICSA-16-308-03,3,8.8,352|284,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,France
+ICSA-16-306-01,3,10,121,Commercial Facilities,Worldwide,France
+ICSA-16-306-02,3,9.8,122,Critical Manufacturing|Energy|Water and Wastewater Systems,Europe|Asia|United States,Germany
+ICSA-16-306-03,3,7.5,691,Commercial Facilities|Energy,Worldwide,France
+ICSA-16-301-01,3,3.7,20,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,United States|Europe|Asia,United States
+ICSA-16-299-01,3,7.5,400,Energy,Worldwide,Germany
+ICSA-16-294-01,3,7.5,284,Critical Manufacturing|Energy|Water and Wastewater Systems,United States|South America|Taiwan,Taiwan
+ICSA-16-292-01,3,9.1,259,Commercial Facilities,Worldwide,France
+ICSA-16-287-01,3,6.4,264,Multiple Sectors,Worldwide,United States
+ICSA-16-287-02,3,7.5,400|89|22,Energy|Healthcare and Public Health,Worldwide,Germany
+ICSA-16-287-03,3,2.5,326|310,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-287-04,3,8.6,209|20|693|20,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-16-287-05,3,8.8,79|522|521|352,Multiple Sectors,Worldwide,Taiwan
+ICSA-16-287-06,3,6.5,119|121|121,Commercial Facilities|Critical Manufacturing,Worldwide,Taiwan
+ICSA-16-287-07,3,8.2,79|601|307|256,Commercial Facilities,Europe|Canada,Sweden
+ICSA-16-252-01,3,10,285,Chemical|Energy,Worldwide,United States
+ICSMA-16-279-01,3,6.5,319|330|294,Healthcare and Public Health,North America,United States
+ICSA-16-278-01,3,10,22,Communications|Water and Wastewater Systems,Serbia,Serbia
+ICSA-16-278-02,3,9.1,307,Critical Manufacturing,Worldwide,Germany
+ICSA-16-273-01-0,3,7.5,98|256,Commercial Facilities,United States,United States
+ICSA-16-271-01,3,3,614,Chemical|Critical Manufacturing|Dams|Defense Industrial Base|Energy|Food and Agriculture|Government Facilities|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-264-01,3,8.8,428,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,United States|Europe|Asia,Taiwan
+ICSA-16-259-01,3,7.3,592,Critical Manufacturing|Energy|Food and Agriculture,Worldwide,Japan
+ICSA-16-259-02,3,7.2,427,Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Switzerland
+ICSA-16-259-03,3,5.3,668,Commercial Facilities,United States|Europe|Asia,United States
+ICSA-16-224-02,3,3,120,Chemical|Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSA-16-250-01,3,5.3,592|400|592,Energy,Worldwide,Germany
+ICSA-16-236-01,3,9.8,307|256|79,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,Asia|Europe,Taiwan
+ICSA-16-231-01,3,7.3,89,Transportation Systems,Worldwide,United States
+ICSA-16-224-01,3,3,250,Chemical|Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems,United States|Asia|Latin America,United States
+ICSA-16-215-01,3,9.8,89,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,United States|Europe|Asia,Taiwan
+ICSA-16-215-02,3,7.3,284,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Government Facilities|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-208-01,3,3,20|20,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-208-02,3,3,400,Chemical|Critical Manufacturing|Food and Agriculture,Worldwide,Germany
+ICSA-16-208-03,3,4.7,79,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Government Facilities|Water and Wastewater Systems,United States|Europe|Asia,Germany
+ICSA-16-173-03,3,7.3,613|89,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Government Facilities|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-196-01,3,8.6,259,Commercial Facilities,Worldwide,France
+ICSA-16-196-02,3,9.1,326,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Government Facilities|Water and Wastewater Systems,Worldwide,Taiwan
+ICSA-16-196-03,3,7.3,623,Commercial Facilities,Worldwide,France
+ICSMA-16-196-01,3,7.8,94|399|200|189|119,Healthcare and Public Health,United States|Europe|Asia,Netherlands
+ICSA-16-194-01,3,7.5,306|209|425,Energy,North America|Europe|South America,United States
+ICSA-16-194-02,3,5.7,269,Multiple Sectors,Worldwide,United States
+ICSA-16-189-01,3,5.3,122|121,Chemical|Critical Manufacturing|Energy,Asia,China
+ICSA-16-189-02,3,7.5,639,Commercial Facilities|Energy,United States|Europe|Asia,Taiwan
+ICSA-16-187-01,3,6.4,564|79,Energy,Worldwide,Germany
+ICSA-16-182-01,3,6,122|121,Energy,Worldwide,United States
+ICSA-16-182-02,3,2.4,522|200,Energy,Worldwide,Germany
+ICSA-16-175-01,3,5.8,399,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-16-175-02,3,7.3,121,Multiple Sectors,Worldwide,United States|Israel
+ICSA-16-175-03,3,7.3,121|121|121,Communications|Defense Industrial Base|Energy|Financial Services|Transportation Systems,Worldwide,Germany
+ICSA-16-173-01,3,6.6,623|120|200,Commercial Facilities|Critical Manufacturing|Energy|Government Facilities,Worldwide,Taiwan
+ICSA-16-173-02,3,6.1,79,Commercial Facilities,Worldwide,France
+ICSA-16-168-01,3,7.7,285,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Government Facilities|Water and Wastewater Systems|Emergency Services|Food and Agriculture,United States|Europe|South America|Taiwan,Taiwan
+ICSA-16-166-01,3,6.5,20,Critical Manufacturing,Worldwide,United States
+ICSA-16-166-02,3,6.5,20,Critical Manufacturing,Worldwide,United States
+ICSA-16-161-01,3,7.5,664,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-161-02,3,3,522,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-159-01,3,7.5,125|22|592,Chemical|Critical Manufacturing|Communications|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,North America|Europe,Canada
+ICSA-16-126-01,3,5.3,352|306,Commercial Facilities,Middle East|Southeast Asia,United States
+ICSA-16-154-01,3,10,259,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-16-152-01,3,5.8,306,Chemical|Commercial Facilities|Critical Manufacturing|Emergency Services|Energy|Food and Agriculture|Government Facilities|Water and Wastewater Systems,United States|Europe|South America|Taiwan,Taiwan
+ICSA-16-152-02,3,2.8,916|522|522|522,Energy,Worldwide,Switzerland
+ICSA-16-147-02,3,9.8,798,Commercial Facilities|Energy|Financial Services|Transportation Systems,North America|Europe,United States
+ICSA-16-147-03,3,6.5,255,Commercial Facilities,Worldwide,United States
+ICSA-16-147-01,3,9.1,287|264,Energy,United States,United States
+ICSA-16-145-01,3,7.5,312|352|255,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,United States|Europe|Asia,Taiwan
+ICSA-16-140-01,3,8.8,269|352,Commercial Facilities|Critical Manufacturing|Healthcare and Public Health,United States|United Kingdom,United Kingdom
+ICSA-16-140-02,3,5.3,200|200,Energy,Worldwide,Germany
+ICSA-16-138-01,3,7.2,434,Commercial Facilities|Communications|Financial Services,Eastern Europe,Russia
+ICSA-16-042-01,3,7.5,284|256|401|400|264,Commercial Facilities|Critical Manufacturing|Emergency Services|Energy,United States|Europe|South America|Taiwan,Taiwan
+ICSA-16-133-01,3,9.4,284,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,United States|Europe,Germany
+ICSA-16-131-01,3,4.2,122|824|787|843,Commercial Facilities|Critical Manufacturing|Food and Agriculture,Europe|North America,Germany
+ICSA-16-105-01,3,4.3,538,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,North America|Europe,Canada
+ICSA-16-105-02,3,8.6,592|256,Energy,North America|China,Canada
+ICSA-16-105-03,3,7.5,319|79|87|113|285|89|200|89,Critical Manufacturing|Energy|Water and Wastewater Systems,United Kingdom|United States|Australia|Poland|Canada|Estonia,Malaysia
+ICSA-16-103-01,3,3,119,Chemical|Communications|Critical Manufacturing|Dams|Energy|Food and Agriculture|Government Facilities|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-103-02,3,3,400,Chemical|Critical Manufacturing|Defense Industrial Base|Energy|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-103-03,3,3,310,Chemical|Communications|Critical Manufacturing|Dams|Defense Industrial Base|Energy|Food and Agriculture|Government Facilities|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-16-070-02,3,7.5,121,Chemical|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-16-096-01,3,8.8,122|125|121|798|592,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-16-061-03,3,7.5,565|312,Communications,Worldwide,United States
+ICSA-16-056-01,3,6.3,119,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-16-091-01,3,9.8,22,Commercial Facilities|Energy|Food and Agriculture|Healthcare and Public Health|Water and Wastewater Systems,United States|Europe|Asia,United States
+ICSMA-16-089-01,3,6.7,,Healthcare and Public Health,Worldwide,United States
+ICSA-16-084-01,3,7.5,269,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Financial Services,United States|United Kingdom,Canada
+ICSA-16-082-01,3,3,276,Commercial Facilities,Worldwide,Germany
+ICSA-16-077-01,3,7.2,427,Critical Manufacturing|Energy|Transportation Systems,Worldwide,Switzerland
+ICSA-16-075-01,3,6.5,693,Chemical|Critical Manufacturing|Food and Agriculture,Worldwide,Germany
+ICSA-16-070-01,3,5.3,226,Energy,North America,France
+ICSA-16-063-01,3,6.5,522|326,Commercial Facilities|Energy,Worldwide,Taiwan
+ICSA-16-061-01,3,7.2,78,Commercial Facilities,Worldwide,France
+ICSA-16-049-01,3,9.8,603,Energy|Communications|Transportation Systems,North America|Europe|South America,United States
+ICSA-16-049-02,3,9.9,255|255,Commercial Facilities|Government Facilities,Worldwide,United States
+ICSA-16-040-01,3,7.25,352|200|522|79,Energy,North America|Europe|South America,United States
+ICSA-16-040-02,3,7.5,691|340,Critical Manufacturing|Food and Agriculture|Chemical,Worldwide,Germany
+ICSA-16-033-01,3,9.1,311|319|79,Commercial Facilities,Europe|United States|Asia,Switzerland
+ICSA-16-033-02,3,8.8,77|312,Critical Manufacturing|Energy,Worldwide,United States
+ICSA-16-028-01,3,9,255,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,Sweden
+ICSA-16-026-01,3,5,122,Critical Manufacturing|Energy|Water and Wastewater Systems,Czech|Slovak Republic,Czech
+ICSA-16-026-02,3,9.8,121,Chemical|Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSA-16-021-01,3,7.5,20,Commercial Facilities|Critical Manufacturing|Energy,Worldwide,Italy
+ICSA-15-337-02,3,7.3,121,Healthcare and Public Health,United States|Canada,United States
+ICSA-16-019-01,3,4.7,79,Commercial Facilities,Worldwide,Germany
+ICSA-16-014-01,3,7.5,788|434|22|121|122|362|680|119|284|20|79|89|352|73|312,Commercial Facilities|Critical Manufacturing|Energy|Government Facilities,Worldwide,Taiwan
+ICSA-15-356-01,3,5.3,592|20|20|20,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-15-351-01,3,7.5,121,Defense Industrial Base|Energy|Government Facilities|Energy|Transportation Systems|Water and Wastewater Systems,United States|China|Russia|India,France
+ICSA-15-351-02,3,7.5,98|352,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,United States|Europe|Asia,United States
+ICSA-15-351-03,3,7.52,613|352|274|79|255|598,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,Belguim
+ICSA-15-349-01,3,9.4,798|287|319|200,Commercial Facilities|Critical Manufacturing|Water and Wastewater Systems,Worldwide,Austria
+ICSA-15-344-01,3,8.3,78|119|119|592,Communications,Worldwide,Taiwan
+ICSA-15-344-02,,,427,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-15-342-01,3,9.8,79,Energy,Worldwide,United States
+ICSA-15-342-02,,,200,Critical Manufacturing|Energy,Worldwide,Germany
+ICSA-15-337-03,3,3,310,Commercial Facilities|Financial Services|Government Facilities|Healthcare and Public Health,Worldwide,Sweden
+ICSA-15-337-01,,,200,Commercial Facilities|Critical Manufacturing|Information Technology,Worldwide,United States
+ICSA-15-309-02,3,8.6,22|319,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSA-15-335-01,3,9.1,259,Chemical|Energy,Worldwide,Switzerland
+ICSA-15-335-02,3,6.3,94,Critical Manufacturing|Commercial Facilities|Energy,United States|Europe|Asia,France
+ICSA-15-335-03A,3,9.4,592,Communications,Worldwide,Germany
+ICSA-15-328-01,3,8.3,798|592,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,United States|Europe|Asia,Taiwan
+ICSA-15-295-01,,,226,Energy,Worldwide,United States
+ICSA-15-323-01,3,9.8,434|434,Commercial Facilities|Communications|Critical Manufacturing|Energy|Healthcare and Public Health|Transportation Systems|Water and Wastewater Systems,Worldwide,Taiwan
+ICSA-15-321-01,3,8.6,592,Critical Manufacturing|Energy|Financial Services|Healthcare and Public Health|Information Technology,United States|South America|Europe|Asia,Argentina
+ICSA-15-274-02A,3,3,623|94|94,Multiple Sectors,Worldwide,United States
+ICSA-15-309-01,3,3,798,Automation,Worldwide,Taiwan
+ICSA-15-300-01,3,3,226,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-15-300-02A,3,4.7,434|78|215|89|352|79|204,Commercial Facilities|Critical Manufacturing|Food and Agriculture|Energy,Worldwide,United States
+ICSA-15-300-03A,3,9.8,121|119|434|79|89,Chemical|Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSA-15-265-03,3,3,521|330|259|215|79|352|200,Energy,Europe|Americas,Germany
+ICSA-15-293-01,3,4.3,312,Automation,Europe,Switzerland
+ICSA-15-293-02,3,9.8,121|177|22,Automation,Europe,Switzerland
+ICSA-15-293-03,,,476,Critical Manufacturing|Energy,Worldwide,Germany
+ICSA-15-288-01,3,7.5,476,Critical Manufacturing|Energy|Transportation Systems,Worldwide,Germany
+ICSA-15-286-01,,,79,Energy,United States|Europe|China,Germany
+ICSA-15-274-01,3,0,319|257|257,Critical Manufacturing,Worldwide,Japan
+ICSA-15-272-01,3,9.4,22,Energy|Chemical,Worldwide,United States
+ICSA-15-146-01,2,7.1,233,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Asia|United States|Europe,United States
+ICSA-15-181-01,2,4.6,259|592|312|259,Healthcare and Public Health,United States|Canada,United States
+ICSA-15-267-01,3,7.5,91,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany|Switzerland
+ICSA-15-237-02,2,9,259,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,Malaysia
+ICSA-15-265-01,3,8.8,269|352,Critical Manufacturing|Healthcare and Public Health|Information Technology,United States|United Kingdom|Asia,United Kingdom
+ICSA-15-265-02,3,7.5,200|256|79,Energy,Europe,Germany
+ICSA-15-232-01,2,5,822,Multiple Sectors,Worldwide,United States
+ICSA-15-260-01,2,8.3,862,Automation,United States|Europe,United States
+ICSA-15-258-01,2,0,319,Commercial Facilities,Worldwide,France
+ICSA-15-258-02,,,122,Critical Manufacturing|Energy,Worldwide,Germany
+ICSA-15-258-03,,,798|23,Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-15-258-04,2,6.9,121,Commercial Facilities|Critical Manufacturing|Energy|Government Facilities,Worldwide,Taiwan
+ICSA-15-253-01,,,121|121|121,Critical Manufacturing|Energy|Food and Agriculture,Worldwide,Japan
+ICSA-15-251-01A,2,0,121,Commercial Facilities|Critical Manufacturing|Energy|Government Facilities,Worldwide,Taiwan
+ICSA-15-246-01,,,94,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Financial Services,Worldwide,Canada
+ICSA-15-246-02,2,3.2,98|79,Dams|Defense Industrial Base|Energy|Food and Agriculture|Government Facilities|Materials and Mining|Transportation Systems|Water and Wastewater Systems,United States|China|Russia|India,France
+ICSA-15-246-03,,,269|400|79,Chemical|Commercial Facilities|Critical Manufacturing|Emergency Services|Energy|Food and Agriculture|Government Facilities|Water and Wastewater Systems,Worldwide,Taiwan
+ICSA-15-181-02A,2,0,798,Energy,Worldwide,Germany
+ICSA-15-244-01,2,4.3,441,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-15-239-01,,,122|120,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,United States|Europe|Asia,Taiwan
+ICSA-15-239-02,2,6.8,352,Chemical|Critical Manufacturing|Food and Agriculture,Worldwide,Germany
+ICSA-15-239-03,2,7.8,272,Communications|Critical Manufacturing|Healthcare and Public Health,Worldwide,Germany
+ICSA-15-237-01,2,1.8,20,Critical Infrastructures,Worldwide,Germany|Switzerland
+ICSA-15-225-01,2,5.8,20|200|250|476|384,Critical Infrastructures,Worldwide,United States
+ICSA-15-223-01,2,7.7,119,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,United States|Europe|Asia,France
+ICSA-15-211-01,2,6.4,312,Energy|Energy|Food and Agriculture|Information Technology,Worldwide,France
+ICSA-15-202-01,2,7.8,400,Energy,Worldwide,Germany
+ICSA-15-202-02,2,2.1,522,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-15-202-03B,2,4.3,310,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-15-174-01,2,7.1,749,Healthcare and Public Health,United States|Canada,United States
+ICSA-15-006-01,2,7.6,342,Energy,Worldwide,United States
+ICSA-15-195-01,2,8.3,592,Energy,Worldwide,Germany
+ICSA-15-176-01,2,4.3,79,Commercial Facilities,United States|Europe|Asia,Germany
+ICSA-15-176-02,2,1.2,703,Multiple Sectors,Worldwide,Germany
+ICSA-15-169-01,2,5.8,343,Communications|Critical Manufacturing|Energy|Water and Wastewater Systems|Healthcare and Public Health|Transportation Systems,Worldwide,United States
+ICSA-15-169-02,2,7.2,427,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,France
+ICSA-15-167-01,2,4.3,79|798|798|472,Critical Manufacturing|Defense Industrial Base|Energy|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-15-162-01A,2,0,256,Energy,Worldwide,Germany
+ICSA-15-161-01,2,7.6,121|285|345|259|312|320,Healthcare and Public Health,Worldwide,United States
+ICSA-15-125-01B,2,7.6,121|285|345|259|312|320|400,Healthcare and Public Health,United States|Canada,United States
+ICSA-15-160-02,2,7.2,256,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,Italy
+ICSA-15-160-01,,,321,Commercial Facilities|Energy|Energy|Materials and Mining|Water and Wastewater Systems|Transportation Systems,Worldwide,United Kingdom
+ICSA-15-155-01,,,352,Energy,Worldwide,United States
+ICSA-15-153-01,2,5.8,342,Energy,United States,United States
+ICSA-15-153-02,,,121,Commercial Facilities|Critical Manufacturing|Energy|Transportation Systems,United States|Europe|Asia,Taiwan
+ICSA-15-148-01,2,8.5,22,Communications|Energy|Water and Wastewater Systems,Switzerland|Morocco|Iran|United Arab Emirates|Czech|Romania,Germany
+ICSA-15-132-02,2,6,257,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-15-141-01A,2,6.6,427,Commercial Facilities|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,France
+ICSA-15-111-01,,,89,Oil and Gas|Chemical,Worldwide,United States
+ICSA-14-202-01A,2,5,20|320|338,Energy,United States|Canada,United States
+ICSA-15-132-01,,,276,Critical Infrastructures,Worldwide,United States
+ICSA-15-111-02,2,5.9,121,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-15-120-01,2,9,122|121,Multiple Sectors,North America,United States
+ICSA-15-099-01E,2,5.8,300|400|836,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,United States|Europe|Asia,Germany
+ICSA-15-064-01A,2,4.6,20,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,United States|Europe|Asia,Germany
+ICSA-15-064-02A,2,6.9,426,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-15-097-01,,,121,Multiple Sectors,United States|Europe|Asia,Taiwan
+ICSA-15-092-01,,,121,Energy,Worldwide,France
+ICSA-15-090-01,2,5.9,79|209|922|613|255|916,Communications|Energy|Food and Agriculture|Water and Wastewater Systems,North|South America|Europe|Australia|Asia,United States
+ICSA-15-090-02,2,6.8,427,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,Malaysia
+ICSA-15-090-03,2,6.8,321|259|260|94,Healthcare and Public Health,Worldwide,United States
+ICSA-15-085-01A,,,798|287|319|319,Energy|Energy|Food and Agriculture|Information Technology,Worldwide,France
+ICSA-15-036-01A,2,6.8,121,Critical Infrastructures,Worldwide,United States
+ICSA-15-062-02,2,6.9,427,Chemical|Commercial Facilities|Critical Manufacturing|Government Facilities|Water and Wastewater Systems,Worldwide,United States
+ICSA-15-076-01,,,352,Energy,Worldwide,United States
+ICSA-15-076-02,2,0,22,Critical Manufacturing|Energy|Water and Wastewater Systems,Europe|Middle East,United States
+ICSA-14-350-02,2,0,257|434,Commercial Facilities|Government Facilities,Worldwide,United States
+ICSA-15-071-01,,,121,Commercial Facilities,Worldwide,France
+ICSA-15-069-04A,2,6.2,114,Critical Manufacturing,Worldwide,Brazil
+ICSA-15-069-01,2,9.3,427,Critical Manufacturing|Energy|Water and Wastewater Systems,Asia,South Korea
+ICSA-15-069-02,2,1.8,120,Critical Infrastructures,Worldwide,Switzerland
+ICSA-15-069-03,2,8.3,122|20|287,Automation,Worldwide,Thailand
+ICSA-15-041-02,2,6.4,343,Energy,Worldwide,United States
+ICSA-15-064-03,2,7.8,400,Multiple Sectors,Worldwide,Germany
+ICSA-15-064-04,2,7.8,404,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,United States|Europe|Asia,Germany
+ICSA-15-064-05,2,4.3,311|311|212|257|288,Automation,Worldwide,Germany
+ICSA-15-062-01,,,121,Critical Manufacturing|Energy|Water and Wastewater Systems,Czech|Slovak Republic,Czech
+ICSA-15-057-01,2,0,78,Critical Manufacturing|Transportation Systems|Water and Wastewater Systems,Worldwide,United States
+ICSA-15-055-01,2,7.5,400,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Food and Agriculture|Information Technology|Water and Wastewater Systems,Worldwide,United States
+ICSA-15-055-02,2,7.5,400,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Food and Agriculture|Information Technology|Water and Wastewater Systems,Worldwide,United States
+ICSA-15-055-03,2,5.2,121,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,France
+ICSA-15-050-01A,2,5.8,300|916,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,United States|Europe|Asia,Germany
+ICSA-15-048-01,2,2.1,916|264,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,United States|Europe|Asia,Germany
+ICSA-15-048-02,2,4.3,522|321,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,United States|Europe|Asia,Germany
+ICSA-15-048-03,2,1.8,120,Critical Infrastructures,Worldwide,Japan
+ICSA-14-198-03G,2,6.8,310|119|362|476,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-15-041-01,2,0,122,Automation,Worldwide,Taiwan
+ICSA-14-329-02D,2,0,284|284,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,United States|Europe|Asia,Germany
+ICSA-15-036-02,2,1.8,20,Critical Infrastructures,Worldwide,Germany
+ICSA-15-012-01C,2,1.8,20,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,Germany
+ICSA-14-353-01C,2,7.3,331|338|121|389|290|754,Unknown,Unknown,Unknown
+ICSA-15-034-01,2,6.8,287,Chemical|Communications|Critical Manufacturing|Dams|Defense Industrial Base|Energy|Food and Agriculture|Government Facilities|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-15-034-02,2,0,287|121|257,Chemical|Communications|Critical Manufacturing|Dams|Defense Industrial Base|Energy|Food and Agriculture|Government Facilities|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-15-029-01,2,1.8,20,Automation|Critical Manufacturing,Worldwide,United States
+ICSA-15-027-01,2,1.8,20,Critical Infrastructures,Worldwide,United States
+ICSA-15-027-02,2,7.5,121,Automation,Worldwide,France
+ICSA-15-022-01,2,4.3,601,Chemical|Critical Manufacturing|Food and Agriculture,Worldwide,Germany
+ICSA-15-020-01,2,7.8,730|730,Chemical|Communications|Critical Manufacturing|Dams|Defense Industrial Base|Energy|Food and Agriculture|Government Facilities|Transportation Systems|Water and Wastewater Systems,Worldwide,Germany
+ICSA-15-020-02,2,0,306|798,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,France
+ICSA-14-345-01,2,5.4,345,Energy,United States|South America|Europe,France
+ICSA-14-289-02,2,6.6,119,Multiple Sectors,Worldwide,United States|Netherlands
+ICSA-14-287-01,2,7.8,20,Energy|Water and Wastewater Systems,Worldwide,New Zealand
+ICSA-15-013-01,2,4.6,522|287|522,Chemical|Energy|Food and Agriculture|Water and Wastewater Systems,United States|Europe|Asia,Germany
+ICSA-15-013-02,2,0,326,Critical Manufacturing|Commercial Facilities,Europe|United States,Denmark
+ICSA-15-013-03,2,0,306,Multiple Sectors,Worldwide,Germany
+ICSA-15-013-04A,2,5,400|321|79,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,United States
+ICSA-15-008-01A,2,1.8,20,Critical Infrastructures,Worldwide,United States
+ICSA-15-008-02,,,121,Chemical|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,Worldwide,France
+ICSA-14-352-01,2,7.6,122|121|123|22|98,Chemical|Critical Manufacturing|Energy|Healthcare and Public Health,Worldwide,United States
+ICSA-14-352-02,2,8.5,269,Communications|Critical Manufacturing|Healthcare and Public Health,Worldwide,Germany
+ICSA-13-259-01B,2,0,912|798|294,Oil and Gas,United States|Europe|Asia,United States
+ICSA-14-350-01,2,0,77|77,Critical Manufacturing|Commercial Facilities|Energy,United States|Europe|Asia,France
+ICSA-14-343-01,2,2.4,611,Energy,Worldwide,Japan
+ICSA-14-343-02,2,7.8,190,Chemical|Critical Manufacturing|Communications|Energy|Food and Agriculture|Transportation Systems|Water and Wastewater Systems,North America|Europe,Canada
+ICSA-14-303-02,2,5,400,Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,Brazil
+ICSA-14-260-01A,,,287,Critical Manufacturing|Energy|Food and Agriculture,Worldwide,Japan
+ICSA-14-329-01,2,6.8,754,Chemical|Energy,United States|Canada|United Kingdom,Canada
+ICSA-14-294-01,2,7.5,618,Multiple Sectors,Worldwide,United States
+ICSA-14-308-01,2,9.3,427,Critical Manufacturing|Automation,Worldwide,Switzerland
+ICSA-14-303-01,2,7.5,79,Energy,United States|Europe|China,Germany
+ICSA-14-275-01,2,7.5,79,Commercial Facilities|Communications|Energy|Financial Services|Transportation Systems,United States|Europe,Germany
+ICSA-14-247-01A,2,6.5,494|311,Defense Industrial Base,Worldwide,United States
+ICSA-14-135-03A,2,5.8,310,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-14-289-01,2,7.5,400,Multiple Sectors,Worldwide,Australia
+ICSA-14-269-02,2,4.3,352,Unknown,Europe,Netherlands
+ICSA-14-269-01A,2,0,78,Unknown,Unknown,Unknown
+ICSA-14-288-01,2,9.7,259|798|798|377,Healthcare and Public Health,Worldwide,United States
+ICSA-14-259-01A,2,4.9,79|287|310,Commercial Facilities|Energy|Water and Wastewater Systems,United States|Europe|Asia,France
+ICSA-14-205-02A,2,5,425|384|269|264|321,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-14-273-01,2,0,22,Communications|Critical Manufacturing|Energy|Water and Wastewater Systems,Worldwide,France
+ICSA-14-254-02,2,7.1,20,Chemical|Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSA-14-254-01,2,4.1,121,Energy,Worldwide,France
+ICSA-14-224-01,2,8.3,73|89,Automation,Worldwide,Malaysia
+ICSA-14-238-01,2,7.1,20|20,Energy,United States|Europe|Asia|South America,United States
+ICSA-14-238-02,2,2.1,326|79|20|89,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Food and Agriculture|Water and Wastewater Systems,United States|Europe|Asia,France
+ICSA-14-196-01,2,8.3,20,Oil and Gas|Energy,United States|Canada,Canada
+ICSA-14-205-01,2,0,259,Unknown,Worldwide,Japan
+ICSA-14-007-01B,2,9.3,311|294,Energy|Transportation Systems,United States|Canada|Europe,Canada
+ICSA-14-175-01,2,7.6,552|79,Critical Manufacturing|Energy|Water and Wastewater Systems,Europe|Middle East,United States
+ICSA-14-198-02,2,7.5,121|623|592|316|284,Critical Manufacturing|Commercial Facilities|Energy|Government Facilities,Worldwide,Taiwan
+ICSA-14-198-01,,,94,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Financial Services,United States|United Kingdom,Canada
+ICSA-14-156-01,,,,Unknown,Unknown,Unknown
+ICSA-14-154-01,2,7.1,20|20,Water and Wastewater Systems,Worldwide,Austria
+ICSA-14-149-01,2,4.3,400|400,Energy|Government Facilities|Transportation Systems|Water and Wastewater Systems,United States|Europe|Asia|South America|Australia|New Zealand,United States
+ICSA-14-149-02,2,7.1,80|22|916,Chemical|Commercial Facilities|Critical Manufacturing|Energy|Financial Services,United States|United Kingdom,Canada
+ICSA-14-087-01A,2,5,20,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-14-051-03B,2,2.6,400,Energy|Automation,United States|Europe|Asia,Germany
+ICSA-14-133-02,,,285|798,Oil and Gas|Chemical,Worldwide,United States
+ICSA-14-135-02,2,5,119,Critical Manufacturing|Energy|Healthcare and Public Health|Water and Wastewater Systems,Worldwide,France
+ICSA-14-135-04,2,5,119,Critical Manufacturing|Energy,United States|Europe,Germany
+ICSA-14-135-05,,,125,Unknown,Unknown,Unknown
+ICSA-14-070-01A,2,9.3,122|121|121|121,Critical Manufacturing|Energy|Food and Agriculture,Worldwide,Japan
+ICSA-14-121-01,,,200|287,Communications,Worldwide,United States
+ICSA-14-091-01,2,7.5,200,Multiple Sectors,Worldwide,Malaysia
+ICSA-14-114-01,2,5,119,Automation,Worldwide,Austria
+ICSA-14-107-01,2,9.3,94|23|20,Critical Manufacturing|Commercial Facilities|Government Facilities|Chemical|Water and Wastewater Systems|Energy,United States|Europe|Asia,Germany
+ICSA-14-105-01,2,4.3,200,Critical Manufacturing|Energy|Water and Wastewater Systems,United States|Europe|India,Italy
+ICSA-12-342-01B,2,7.1,471,Food and Agriculture|Water and Wastewater Systems|Chemical|Critical Manufacturing|Others,Worldwide,United States
+ICSA-14-098-01,2,7.1,20|20,Energy|Water and Wastewater Systems,North America|Asia|Europe,United States
+ICSA-14-098-03,2,4.3,20,Multiple Sectors,United States|Europe|Asia,Germany
+ICSA-14-079-03,2,7.5,89|121|121,Critical Manufacturing|Commercial Facilities|Government Facilities|Energy,Worldwide,Taiwan
+ICSA-14-093-01,2,5,122,Energy|Water and Wastewater Systems|Commercial Facilities|Government Facilities|Food and Agriculture|Transportation Systems,United States|Canada,France
+ICSA-14-086-01A,2,9.3,121,Chemical|Critical Manufacturing|Dams|Energy|Food and Agriculture|Government Facilities|Energy|Materials and Mining|Water and Wastewater Systems|Transportation Systems,United States|Europe|China,France
+ICSA-14-086-01,2,9.3,121,Chemical|Critical Manufacturing|Dams|Energy|Food and Agriculture|Government Facilities|Energy|Materials and Mining|Water and Wastewater Systems|Transportation Systems,United States|Europe|China,France
+ICSA-14-058-01,2,6.9,428,Commercial Facilities|Energy|Food and Agriculture|Government Facilities|Transportation Systems|Water and Wastewater Systems,United States|Canada,France
+ICSA-14-058-02,2,6.8,121,Energy|Water and Wastewater Systems|Commercial Facilities|Government Facilities|Food and Agriculture|Transportation Systems,United States|Canada,France
+ICSA-14-051-04,2,7.8,20,Unknown,Unknown,Unknown
+ICSA-14-010-01,2,7.1,20,Chemical|Energy,United States|Canada|United Kingdom,Canada
+ICSA-14-035-01,2,9.3,94|23|20|916,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,United States|Europe|Asia,Germany
+ICSA-14-021-01,2,6.3,522,Chemical|Critical Manufacturing|Food and Agriculture|Water and Wastewater Systems,Worldwide,United States
+ICSA-14-030-01,2,7.1,476,Critical Manufacturing|Automation|Energy|Transportation Systems,Worldwide,Germany
+ICSA-14-006-01,2,4.3,20,Energy,United States|Canada,France
+ICSA-14-016-01,2,7.8,121,Automation,Worldwide,Malaysia
+ICSA-14-008-01,2,7.5,529,Automation,Worldwide,Malaysia
+ICSA-13-347-01,2,7.2,269,Multiple Sectors,Worldwide,Germany
+ICSA-13-346-01,2,7.1,20,Energy,Americas|Oceania,United States
+ICSA-13-346-02,2,7.1,20,Energy,United States|South America,United States
+ICSA-13-340-01,2,8.3,330,Energy|Healthcare and Public Health|Transportation Systems,Worldwide,Germany
+ICSA-13-338-01,2,0,592,Energy|Transportation Systems|Healthcare and Public Health,Worldwide,Germany
+ICSA-13-337-01,2,4.3,20,Energy,United States|Europe|Asia,United States
+ICSA-13-329-01,2,7.8,20,Food and Agriculture|Commercial Facilities|Transportation Systems|Water and Wastewater Systems|Energy,United States|Canada|Australia|Singapore|South Korea,Canada
+ICSA-13-297-02,2,7.1,20|20,Oil and Gas|Water and Wastewater Systems|Energy,Worldwide,United States
+ICSA-13-282-01A,2,7.1,20|20,Energy,United States|Europe|Asia,France
+ICSA-13-277-01,2,9.3,122,Healthcare and Public Health,United States|Europe|Asia,Netherlands
+ICSA-13-274-01,2,0,592,Energy|Transportation Systems|Healthcare and Public Health,Worldwide,Germany
+ICSA-13-231-01B,2,0,912,Energy|Transportation Systems|Commercial Facilities|Financial Services,United States|Canada|Europe,United States
+ICSA-13-254-01,2,8.3,331,Energy|Transportation Systems|Healthcare and Public Health,Worldwide,Germany
+ICSA-13-248-01,2,9.3,338,Oil and Gas|Water and Wastewater Systems|Energy,Europe|Americas|Asia,United States
+ICSA-13-213-04A,2,7.1,20,Oil and Gas|Materials and Mining|Energy,United States|Canada|United Kingdom,United States
+ICSA-13-240-01,2,7.1,20,Energy|Transportation Systems|Water and Wastewater Systems|Government Facilities,United States|Europe|Asia|South America|Australia|New Zealand,United States
+ICSA-13-234-01,2,8.3,321,Oil and Gas|Water and Wastewater Systems|Materials and Mining,Australia|United States|Brazil|Europe|United Kingdom,Finland
+ICSA-13-234-02,2,7.1,20,Automation|Energy|Oil and Gas|Water and Wastewater Systems,Worldwide,United States
+ICSA-13-233-01,2,7.2,269,Multiple Sectors,Europe|Americas|Asia,Germany
+ICSA-13-226-01,2,7.1,20,Automation|Energy|Oil and Gas|Water and Wastewater Systems,Worldwide,United States
+ICSA-13-225-01,2,6.3,79,Energy|Automation|Critical Manufacturing|Commercial Facilities|Government Facilities,Worldwide,Taiwan
+ICSA-13-225-02,2,7.8,119,Energy,United States|Europe|Asia,United States
+ICSA-13-219-01,2,7.1,20|20,Energy,North America|Europe|Asia,United States
+ICSA-13-217-01,2,7.1,331,Critical Manufacturing|Transportation Systems|Information Technology|Water and Wastewater Systems|Communications,Worldwide,Taiwan
+ICSA-13-213-01,2,6.6,320|287,Energy|Transportation Systems|Healthcare and Public Health,Worldwide,Germany
+ICSA-13-213-02,2,5.8,352|601,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-13-213-03,2,7.1,20,Multiple Sectors,United Kingdom|Canada|New Zealand|Australia|Austria|France|Germany|Netherlands|Italy|India|Czech|China|Singapore|South Korea|South Africa|Brazil,New Zealand
+ICSA-13-189-01,2,7.8,121|120,Multiple Sectors,Worldwide,Canada
+ICSA-13-189-02,2,7.8,20,Food and Agriculture|Automation|Transportation Systems|Water and Wastewater Systems|Energy,United States|Canada|Australia|Singapore|South Korea,Canada|United States
+ICSA-13-184-01,2,6,284,Energy,Worldwide,France
+ICSA-13-184-02,2,0,321,Communications,United States,United States
+ICSA-13-169-01,2,8,264,Energy|Transportation Systems|Healthcare and Public Health,Worldwide,Germany
+ICSA-13-169-02,2,7.5,89|798|425,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-13-169-03,2,4.6,264,Energy|Transportation Systems|Healthcare and Public Health,Worldwide,Germany
+ICSA-13-142-01,2,0,416,Automation,Worldwide,Germany
+ICSA-13-136-01,2,0,798,Food and Agriculture|Automation|Critical Manufacturing,United States|Europe|Asia,Germany
+ICSA-12-354-01A,2,9.3,320,Energy|Transportation Systems,United States|Canada|Mexico|China|Europe,Canada
+ICSA-13-106-01,2,9.4,22|388,Healthcare and Public Health,United States|Canada|United Kingdom,United States
+ICSA-13-116-01,2,7.1,20,Energy|Defense Industrial Base|Food and Agriculture,United States|Europe|Asia,United States
+ICSA-13-098-01,2,7.9,73,Critical Manufacturing|Energy,Worldwide,United States
+ICSA-13-095-01,2,7.8,20|20|763|755,Critical Manufacturing|Automation|Chemical|Commercial Facilities|Energy|Financial Services,Worldwide,Canada
+ICSA-13-050-01A,2,9.4,118|22|122|119|121,Automation,Worldwide,Germany
+ICSA-13-043-02A,,,119,Multiple Sectors,Worldwide,China
+ICSA-13-067-02,2,6.3,20,Critical Manufacturing|Energy|Food and Agriculture|Chemical|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-13-079-02,2,6.5,311|285|23|119|285,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-13-079-03,2,4.6,20|79|425|113|79|79,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-13-067-01,2,7.8,22,Energy|Automation|Water and Wastewater Systems|Critical Manufacturing,Worldwide,Taiwan
+ICSA-13-053-01,2,6.1,400,Oil and Gas|Chemical,Worldwide,United States
+ICSA-13-038-01A,2,0,259,Communications,Worldwide,United States
+ICSA-13-024-01,,,,Critical Manufacturing|Food and Agriculture|Transportation Systems|Energy,United States|United Kingdom|Germany|France|Taiwan|China|Brazil,Sweden
+ICSA-13-045-01,2,8.5,22,Multiple Sectors,Worldwide,United States
+ICSA-13-043-01,,,122,Energy|Water and Wastewater Systems|Critical Manufacturing,Worldwide,France
+ICSA-13-042-01,2,4,259|331,Food and Agriculture|Critical Manufacturing|Government Facilities|Commercial Facilities|Chemical|Emergency Services|Water and Wastewater Systems|Energy,Worldwide,Taiwan
+ICSA-13-036-02,2,9.3,119,Automation,Worldwide,Malaysia
+ICSA-13-018-01,2,0,121,Multiple Sectors,Worldwide,France
+ICSA-13-016-01,2,9.3,287,Energy|Automation,Worldwide,France
+ICSA-13-014-01,,,119,Critical Manufacturing|Healthcare and Public Health|Energy|Food and Agriculture|Chemical,Worldwide,Germany
+ICSA-13-011-02,2,2.6,23,Critical Manufacturing,Worldwide,United States
+ICSA-13-011-03,2,8.5,284|200|20|294,Food and Agriculture|Water and Wastewater Systems|Chemical|Critical Manufacturing|Others,Europe|United States|South Korea|China|Japan|South America,United States
+ICSA-13-011-01,2,0,284|23,Critical Manufacturing|Automation|Energy|Transportation Systems,Worldwide,Germany
+ICSA-12-348-01,2,4.3,326,Critical Manufacturing|Oil and Gas|Chemical,Worldwide,United States
+ICSA-11-314-01,,,79,Multiple Sectors,Worldwide,United States
+ICSA-12-297-01,2,6.1,331,Transportation Systems|Energy|Water and Wastewater Systems|Emergency Services|Critical Manufacturing,Worldwide,United States
+ICSA-12-354-02,2,0,89,Energy,United States|Canada|Europe|Asia,Italy
+ICSA-12-335-01,2,7.6,331,Transportation Systems,United States,United States
+ICSA-12-325-01,2,0,259|89|287|78,Energy|Automation,Italy|United States,Italy
+ICSA-12-305-01,2,0,121,Energy|Transportation Systems|Healthcare and Public Health,Worldwide,Germany
+ICSA-12-297-02,2,0,259,Communications|Information Technology,Worldwide,Taiwan
+ICSA-12-271-02,2,5,476|835,Multiple Sectors,Europe,France
+ICSA-12-263-02,2,0,259,Critical Manufacturing|Oil and Gas|Transportation Systems|Energy,United States|Europe|Asia,Taiwan
+ICSA-12-258-01,2,7.8,219|538|22,Critical Manufacturing|Automation|Oil and Gas|Energy,United States|Europe|Asia,Australia
+ICSA-12-256-01,2,8.3,79|352|425|89|618,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-12-150-01,2,7.5,121,Automation,Worldwide,United States
+ICSA-12-251-01,2,6.2,427,Automation,Nigeria|United States|India|Philippines|Saudi Arabia|Mexico,United States
+ICSA-12-249-01,2,7.8,410,Energy,United States|South America|Europe,France
+ICSA-12-249-02,,,259|287,Critical Manufacturing|Automation|Energy|Transportation Systems,Worldwide,Germany
+ICSA-12-243-01,2,7.7,259,Critical Manufacturing|Defense Industrial Base|Energy|Water and Wastewater Systems|Transportation Systems,United States|Europe|Asia,United States
+ICSA-12-214-01,2,9,262,Automation,Worldwide,Germany
+ICSA-12-212-01,2,6,261,Critical Manufacturing|Automation|Oil and Gas|Water and Wastewater Systems|Energy,United States|Europe|Asia,United States
+ICSA-12-205-02,2,6.9,114,Energy|Water and Wastewater Systems|Oil and Gas|Chemical|Automation|Critical Manufacturing,Worldwide,Germany
+ICSA-12-205-01,2,0,798,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-12-177-02,2,6.6,427,Critical Manufacturing|Energy|Food and Agriculture|Chemical|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-12-131-02,3,8.8,121|77,Multiple Sectors,Worldwide,United States
+ICSA-12-179-01,2,5.8,119|680|388|788,Multiple Sectors,Worldwide,South Korea
+ICSA-12-167-01,,,,Critical Manufacturing|Energy|Water and Wastewater Systems|Transportation Systems|Healthcare and Public Health|Communications,Worldwide,Germany
+ICSA-12-158-01,2,4.3,79|91|22,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-12-145-02,2,7.1,476|122|125|119,Critical Infrastructures|Commercial Facilities,China|India|Indonesia|Poland|Latvia,China
+ICSA-12-145-01,,,427,Energy|Oil and Gas|Critical Manufacturing,Worldwide,Ireland
+ICSA-12-137-02,,,119,Automation|Water and Wastewater Systems,Worldwide,Taiwan
+ICSA-12-131-01,2,7.8,119,Energy|Water and Wastewater Systems|Critical Manufacturing,United States|Europe|India,Italy
+ICSA-12-030-01A,,,287|255|79|94|20|255|134|22|399|22|119,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-12-095-01A,,,119,Communications,Worldwide,Switzerland
+ICSA-12-102-02,,,119|521|306|306,Communications,Americas|Australia|Europe,Japan
+ICSA-12-102-01,2,5,22|476|732|400,Automation,Worldwide,Austria
+ICSA-12-102-03,,,416,Multiple Sectors,Czech|Slovak Republic,Czech
+ICSA-12-102-05,2,0,307|121,Automation|Defense Industrial Base|Critical Manufacturing|Transportation Systems|Chemical|Water and Wastewater Systems,Europe|United States,Germany
+ICSA-12-102-04,,,119,Food and Agriculture|Critical Manufacturing|Government Facilities|Dams|Transportation Systems|Water and Wastewater Systems|Chemical|Defense Industrial Base|Energy|Communications,Worldwide,Germany
+ICSA-12-062-01,,,79|89|264,Critical Manufacturing|Energy|Food and Agriculture|Chemical|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-12-081-01,2,6,122,Critical Infrastructures|Critical Manufacturing,Worldwide,Netherlands
+ICSA-12-083-01,2,4.3,22,Automation,Worldwide,Malaysia
+ICSA-12-059-01,,,119,Automation,Worldwide,Switzerland
+ICSA-12-025-02A,,,427,Energy,United States|Europe|South Asia,Denmark
+ICSA-12-047-01A,,,79|89|352|200|119|287|134,Energy|Critical Manufacturing|Automation,Asia|North America|North Africa|Middle East,Taiwan
+ICSA-12-039-01,,,,Critical Manufacturing|Automation|Oil and Gas|Water and Wastewater Systems|Healthcare and Public Health|Energy,Worldwide,Netherlands
+ICSA-12-013-01,,,,Automation|Energy|Critical Infrastructures|Food and Agriculture|Healthcare and Public Health,Worldwide,United Kingdom
+ICSA-12-012-01A,,,20|119,Critical Manufacturing|Information Technology|Energy|Water and Wastewater Systems|Defense Industrial Base,United States,United States
+ICSA-12-024-01,,,79|264,Critical Manufacturing|Automation|Oil and Gas|Water and Wastewater Systems|Healthcare and Public Health|Energy,United States|United Kingdom|France|Switzerland|Israel|Germany,France
+ICSA-12-024-02,,,22|119,Multiple Sectors,Czech|Slovak Republic,Czech
+ICSA-12-018-02,,,,Automation,Worldwide,Austria
+ICSA-12-016-01,2,4.3,79|94,Critical Manufacturing|Automation|Chemical|Commercial Facilities|Energy|Financial Services,United States|United Kingdom,Canada
+ICSA-11-353-01,,,426,Multiple Sectors,Worldwide,Denmark
+ICSA-12-006-01,,,119|189,Automation,Worldwide,Germany
+ICSA-11-343-01,,,119,Oil and Gas|Chemical|Food and Agriculture|Automation,Worldwide,Germany
+ICSA-11-332-01A,,,119,Critical Manufacturing|Energy|Food and Agriculture|Chemical|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-11-362-01,,,119,Critical Manufacturing|Chemical,United States|Australia,United States
+ICSA-11-361-01,2,8.3,119|20,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-11-356-01,,,287|255,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-11-355-01,,,119,Multiple Sectors,Worldwide,Denmark
+ICSA-11-335-01,,,119,Multiple Sectors,Worldwide,Denmark
+ICSA-11-340-01,,,189,Critical Manufacturing|Automation|Chemical|Commercial Facilities|Energy|Financial Services,Worldwide,France
+ICSA-11-307-01,,,119|79|22,Energy|Automation,Worldwide,France
+ICSA-11-294-01,2,0,119,Energy|Water and Wastewater Systems|Critical Manufacturing,United States|Europe|India,Italy
+ICSA-11-279-03A,,,,Multiple Sectors,United States|Israel,Israel
+ICSA-11-280-01,2,0,119|22|189|200,Critical Manufacturing|Automation|Chemical|Commercial Facilities|Energy|Financial Services,United States|United Kingdom,Canada
+ICSA-11-273-01,,,,Critical Manufacturing|Automation|Oil and Gas|Water and Wastewater Systems|Energy,Worldwide,United States
+ICSA-11-273-02,,,119,Multiple Sectors,Worldwide,United States
+ICSA-11-264-01,,,119,Water and Wastewater Systems|Energy|Critical Manufacturing,United States|Europe,United States
+ICSA-11-263-01,,,119|22|20|200,Energy|Oil and Gas|Critical Manufacturing|Healthcare and Public Health,Worldwide,Ireland
+ICSA-11-216-01,,,119,Critical Manufacturing|Transportation Systems|Water and Wastewater Systems|Chemical,United Kingdom|Philippines|Thailand|Singapore,United States
+ICSA-11-244-01,,,119,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-11-173-01,,,,Water and Wastewater Systems|Oil and Gas|Energy,Worldwide,France
+ICSA-11-223-01A,,,,Energy|Water and Wastewater Systems|Oil and Gas|Chemical|Automation|Critical Manufacturing,Worldwide,Germany
+ICSA-11-231-01,,,,Multiple Sectors,Americas|Europe|Australia|Asia,United States
+ICSA-11-195-01,,,,Oil and Gas|Chemical|Energy|Healthcare and Public Health|Water and Wastewater Systems,Worldwide,United Kingdom
+ICSA-11-189-01,,,,Multiple Sectors,United States|Europe|South Asia,Denmark
+ICSA-11-182-01,,,,Critical Manufacturing|Automation|Oil and Gas|Water and Wastewater Systems|Energy,United States|Europe|Asia,United States
+ICSA-11-182-02,,,,Critical Manufacturing|Automation|Oil and Gas|Water and Wastewater Systems|Energy,United States|Europe|Asia,United States
+ICSA-11-175-02,,,,Food and Agriculture|Water and Wastewater Systems|Oil and Gas|Chemical,Worldwide,Germany
+ICSA-11-167-01,,,,Multiple Sectors,China,China
+ICSA-11-069-01B,,,,Automation,Worldwide,South Korea
+ICSA-11-132-01A,,,,Multiple Sectors,Worldwide,Denmark
+ICSA-11-147-01B,,,,Automation,United States|United Kingdom|Australia|Poland|Canada|Estonia,Malaysia
+ICSA-11-147-02,,,,Automation,Worldwide,Malaysia
+ICSA-11-131-01,,,,Critical Manufacturing|Automation|Oil and Gas|Water and Wastewater Systems|Energy,Worldwide,United States
+ICSA-11-126-01,,,,Multiple Sectors,Worldwide,Denmark
+ICSA-11-119-01,,,,Multiple Sectors,Worldwide,Denmark
+ICSA-11-108-01,,,,Critical Manufacturing|Automation|Oil and Gas|Water and Wastewater Systems|Energy,United States|United Kingdom|Netherlands|Italy|India|Germany|France|Czech|China|Australia,United States
+ICSA-11-094-01,,,,Healthcare and Public Health|Food and Agriculture|Chemical,Europe|North America,United Kingdom
+ICSA-11-091-01A,,,,Oil and Gas|Chemical|Food and Agriculture|Automation,Worldwide,Germany
+ICSA-11-084-01,,,,Unknown,Unknown,Unknown
+ICSA-11-074-01,,,,Energy|Water and Wastewater Systems|Automation|Materials and Mining,China,China
+ICSA-10-348-01A,,,,Food and Agriculture|Chemical,Europe|North America,United Kingdom
+ICSA-10-314-01A,,,,Water and Wastewater Systems|Oil and Gas|Automation|Energy,Worldwide,France
+ICSA-11-018-02,,,,Critical Manufacturing|Energy|Oil and Gas|Water and Wastewater Systems,Europe|South Asia,Denmark
+ICSA-11-025-01,,,,Unknown,Unknown,Unknown
+ICSA-11-017-01,,,,Energy|Water and Wastewater Systems|Automation|Materials and Mining,China,China
+ICSA-10-337-01,,,,Automation|Water and Wastewater Systems,Worldwide,Taiwan
+ICSA-10-316-01A,,,,Energy|Automation,Worldwide,Ireland|United Kingdom|United States
+ICSA-10-322-01,,,,Automation,Malaysia,Malaysia
+ICSA-10-301-01A,,,,Critical Manufacturing|Communications|Healthcare and Public Health|Energy,Taiwan|United States|China|Germany,Taiwan
+ICSA-10-313-01,,,,Energy|Oil and Gas|Water and Wastewater Systems|Transportation Systems|Chemical|Critical Manufacturing|Communications,Worldwide,United States|Ireland|Russia
+ICSA-10-264-01,,,,Automation,Worldwide,United States|China
+ICSA-10-201-01C,,,,Critical Manufacturing,Worldwide,Germany
+ICSA-10-214-01,,,,Multiple Sectors,Worldwide,United States
+ICSA-10-097-01,,,,Energy|Automation,Worldwide,Switzerland
+ICSA-10-090-01,,,,Unknown,Unknown,Unknown
+ICSA-10-070-02,,,,Automation|Water and Wastewater Systems,Worldwide,United States
