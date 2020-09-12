@@ -2,7 +2,7 @@ import React from 'react';
 import { ResponsiveBar } from "@nivo/bar";
 
 import './App.css';
-import vulnerabilities from './vulnerabilities.json';
+import vulnerabilities from './data/vulnerabilities.json';
 import { ResponsivePie } from '@nivo/pie';
 
 const severityColorMap = {
