@@ -10,7 +10,7 @@
     "@nivo/bar": "^0.62.0",
     "@nivo/heatmap": "^0.62.0",
     "@nivo/pie": "^0.62.0",
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
