@@ -6,16 +6,6 @@
   "repository": "https://github.com/wisedier/ICS-CERT",
   "author": "Junsang Cheon",
   "license": "MIT",
-  "dependencies": {
-    "@nivo/bar": "^0.62.0",
-    "@nivo/heatmap": "^0.62.0",
-    "@nivo/pie": "^0.62.0",
-    "axios": "^0.21.1",
-    "prop-types": "^15.7.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.3"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -31,6 +21,18 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "eslint-utils": "^1.4.2"
+    "eslint-utils": "^1.4.2",
+    "react-scripts": "^4.0.3"
+  },
+  "dependencies": {
+    "@nivo/bar": "^0.70.1",
+    "@nivo/core": "^0.70.1",
+    "@nivo/heatmap": "^0.70.1",
+    "@nivo/pie": "^0.70.1",
+    "axios": "^0.21.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-motion": "^0.5.2"
   }
 }
