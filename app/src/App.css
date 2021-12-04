@@ -16,13 +16,9 @@ th {
   border-bottom: 2px dashed #000;
 }
 
-tr:first-child {
-  height: 1.75rem;
-}
-
 td {
-  font-size: 0.8rem;
-  height: 1.56rem;
+  font-size: 0.7rem;
+  height: 1.5rem;
   vertical-align: middle;
   text-align: left;
 }
